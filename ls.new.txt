@@ -1,0 +1,1276 @@
+.:
+total 124K
+drwxrwxrwx 1 c c 4.0K Mar  7 16:43 N1
+drwxrwxrwx 1 c c 4.0K Mar  7 16:43 N2
+drwxrwxrwx 1 c c 4.0K Mar  7 16:43 N3
+drwxrwxrwx 1 c c 4.0K Mar  7 16:43 N4
+drwxrwxrwx 1 c c 4.0K Mar  7 16:43 N5
+-rwxrwxrwx 1 c c    0 Mar  7 16:47 ls.new.txt
+-rwxrwxrwx 1 c c 122K Mar  7 16:18 ls.old.txt
+-rwxrwxrwx 1 c c  490 Mar  7 16:42 rename.py
+drwxrwxrwx 1 c c 4.0K Mar  7 16:41 src
+
+./N1:
+total 4.6G
+-rwxrwxrwx 1 c c  20K Mar  7 12:17 001 - 【Ｎ１文法】～あっての - riUjVcsPbqo.mhtml
+-rwxrwxrwx 1 c c  28M Sep  1  2019 001 - 【Ｎ１文法】～あっての - riUjVcsPbqo.mp4
+-rwxrwxrwx 1 c c  20K Mar  7 12:17 002 - 【Ｎ１文法】～いかん・〜いかんによって - Y4Nh351IfCs.mhtml
+-rwxrwxrwx 1 c c  28M Sep  8  2019 002 - 【Ｎ１文法】～いかん・〜いかんによって - Y4Nh351IfCs.mp4
+-rwxrwxrwx 1 c c  20K Mar  7 12:17 003 - 【Ｎ１文法】～いかんでは・～いかんによっては - C0v1rOwoVsE.mhtml
+-rwxrwxrwx 1 c c  35M Sep 15  2019 003 - 【Ｎ１文法】～いかんでは・～いかんによっては - C0v1rOwoVsE.mp4
+-rwxrwxrwx 1 c c  19K Mar  7 12:17 004 - 【Ｎ１文法】～いかんによらず・～いかんにかかわらず - LAC4eykNJNA.mhtml
+-rwxrwxrwx 1 c c  45M Sep 20  2019 004 - 【Ｎ１文法】～いかんによらず・～いかんにかかわらず - LAC4eykNJNA.mp4
+-rwxrwxrwx 1 c c  17K Mar  7 12:17 005 - 【Ｎ１文法】～うが・～うと - Gaqkb8oKX8A.mhtml
+-rwxrwxrwx 1 c c  43M Sep 29  2019 005 - 【Ｎ１文法】～うが・～うと - Gaqkb8oKX8A.mp4
+-rwxrwxrwx 1 c c  20K Mar  7 12:17 006 - 【Ｎ１文法】～うが～まいが・～うと～まいと - 3LzYcy8oU_A.mhtml
+-rwxrwxrwx 1 c c  51M Oct  7  2019 006 - 【Ｎ１文法】～うが～まいが・～うと～まいと - 3LzYcy8oU_A.mp4
+-rwxrwxrwx 1 c c  18K Mar  7 12:17 007 - 【Ｎ１文法】～うにも～ない - mk8zPc2fwP0.mhtml
+-rwxrwxrwx 1 c c  30M Oct 14  2019 007 - 【Ｎ１文法】～うにも～ない - mk8zPc2fwP0.mp4
+-rwxrwxrwx 1 c c  18K Mar  7 12:17 008 - 【Ｎ１文法】～かぎりだ - _jp5TCfHXPY.mhtml
+-rwxrwxrwx 1 c c  29M Oct 21  2019 008 - 【Ｎ１文法】～かぎりだ - _jp5TCfHXPY.mp4
+-rwxrwxrwx 1 c c  20K Mar  7 12:17 009 - 【Ｎ１文法】～たが最後・～たら最後 - 4ozbLvudSQ8.mhtml
+-rwxrwxrwx 1 c c  29M Oct 28  2019 009 - 【Ｎ１文法】～たが最後・～たら最後 - 4ozbLvudSQ8.mp4
+-rwxrwxrwx 1 c c  19K Mar  7 12:17 010 - 【Ｎ１文法】～かたがた - NNV7XdJmV54.mhtml
+-rwxrwxrwx 1 c c  39M Nov  4  2019 010 - 【Ｎ１文法】～かたがた - NNV7XdJmV54.mp4
+-rwxrwxrwx 1 c c  20K Mar  7 12:17 011 - 【Ｎ１文法】～かたわら - RupR_qZkfJ8.mhtml
+-rwxrwxrwx 1 c c  37M Nov 11  2019 011 - 【Ｎ１文法】～かたわら - RupR_qZkfJ8.mp4
+-rwxrwxrwx 1 c c  18K Mar  7 12:17 012 - 【Ｎ１文法】～がてら - ED5RvhDzlFU.mhtml
+-rwxrwxrwx 1 c c  31M Nov 18  2019 012 - 【Ｎ１文法】～がてら - ED5RvhDzlFU.mp4
+-rwxrwxrwx 1 c c  19K Mar  7 12:18 013 - 【Ｎ１文法】～が早いか - dC3rxVvGU4s.mhtml
+-rwxrwxrwx 1 c c  34M Nov 23  2019 013 - 【Ｎ１文法】～が早いか - dC3rxVvGU4s.mp4
+-rwxrwxrwx 1 c c  20K Mar  7 12:18 014 - 【Ｎ１文法】～からある・～からする・～からの - VuggbOJwNpc.mhtml
+-rwxrwxrwx 1 c c  46M Dec  1  2019 014 - 【Ｎ１文法】～からある・～からする・～からの - VuggbOJwNpc.mp4
+-rwxrwxrwx 1 c c  21K Mar  7 12:18 015 - 【Ｎ１文法】～きらいがある - 0Nf7LXUgPLI.mhtml
+-rwxrwxrwx 1 c c  34M Dec  9  2019 015 - 【Ｎ１文法】～きらいがある - 0Nf7LXUgPLI.mp4
+-rwxrwxrwx 1 c c  20K Mar  7 12:18 016 - 【Ｎ１文法】～極まる・～極まりない - 2Ue4JyitjxI.mhtml
+-rwxrwxrwx 1 c c  41M Dec 16  2019 016 - 【Ｎ１文法】～極まる・～極まりない - 2Ue4JyitjxI.mp4
+-rwxrwxrwx 1 c c  21K Mar  7 12:18 017 - 【Ｎ１文法】～ごとく・～ごとき・～ごとし - 6hRUifeyN5o.mhtml
+-rwxrwxrwx 1 c c  53M Dec 23  2019 017 - 【Ｎ１文法】～ごとく・～ごとき・～ごとし - 6hRUifeyN5o.mp4
+-rwxrwxrwx 1 c c  19K Mar  7 12:18 018 - 【Ｎ１文法】～こととて - oUyO4AcEwF0.mhtml
+-rwxrwxrwx 1 c c  37M Dec 29  2019 018 - 【Ｎ１文法】～こととて - oUyO4AcEwF0.mp4
+-rwxrwxrwx 1 c c  19K Mar  7 12:18 019 - 【Ｎ１文法】～なしに・～ことなしに - vzEonWw5Qg0.mhtml
+-rwxrwxrwx 1 c c  30M Jan  5  2020 019 - 【Ｎ１文法】～なしに・～ことなしに - vzEonWw5Qg0.mp4
+-rwxrwxrwx 1 c c  20K Mar  7 12:18 020 - 【Ｎ１文法】～始末だ - bLtfjT8RYt0.mhtml
+-rwxrwxrwx 1 c c  34M Jan 12  2020 020 - 【Ｎ１文法】～始末だ - bLtfjT8RYt0.mp4
+-rwxrwxrwx 1 c c  19K Mar  7 12:18 021 - 【Ｎ１文法】～ずくめ - tE-RgKDiuHY.mhtml
+-rwxrwxrwx 1 c c  37M Jan 20  2020 021 - 【Ｎ１文法】～ずくめ - tE-RgKDiuHY.mp4
+-rwxrwxrwx 1 c c  20K Mar  7 12:18 022 - 【Ｎ１文法】～ないではおかない・～ずにはおかない - Odk60ALwdPI.mhtml
+-rwxrwxrwx 1 c c  65M Jan 26  2020 022 - 【Ｎ１文法】～ないではおかない・～ずにはおかない - Odk60ALwdPI.mp4
+-rwxrwxrwx 1 c c  20K Mar  7 12:18 023 - 【Ｎ１文法】～ないではすまない・～ずにはすまない - HRIhcdUJEp0.mhtml
+-rwxrwxrwx 1 c c  45M Feb  2  2020 023 - 【Ｎ１文法】～ないではすまない・～ずにはすまない - HRIhcdUJEp0.mp4
+-rwxrwxrwx 1 c c  19K Mar  7 12:18 024 - 【Ｎ１文法】～すら - 1qiZzY_VywU.mhtml
+-rwxrwxrwx 1 c c  83M Feb  9  2020 024 - 【Ｎ１文法】～すら - 1qiZzY_VywU.mp4
+-rwxrwxrwx 1 c c  20K Mar  7 12:18 025 - 【Ｎ１文法】～そばから - If7aoh7fN1k.mhtml
+-rwxrwxrwx 1 c c  34M Feb 17  2020 025 - 【Ｎ１文法】～そばから - If7aoh7fN1k.mp4
+-rwxrwxrwx 1 c c  19K Mar  7 12:18 026 - 【Ｎ１文法】～たところで - gIDYYqhXVJo.mhtml
+-rwxrwxrwx 1 c c  39M Feb 24  2020 026 - 【Ｎ１文法】～たところで - gIDYYqhXVJo.mp4
+-rwxrwxrwx 1 c c  20K Mar  7 12:18 027 - 【Ｎ１文法】～だに - Hm9iR1CyJQs.mhtml
+-rwxrwxrwx 1 c c  32M Mar  2  2020 027 - 【Ｎ１文法】～だに - Hm9iR1CyJQs.mp4
+-rwxrwxrwx 1 c c  20K Mar  7 12:18 028 - 【Ｎ１文法】～たりとも - tduUORrsEpc.mhtml
+-rwxrwxrwx 1 c c  29M Jan 15  2021 028 - 【Ｎ１文法】～たりとも - tduUORrsEpc.mp4
+-rwxrwxrwx 1 c c  20K Mar  7 12:18 029 - 【Ｎ１文法】～たる - 1EEKFIErAOo.mhtml
+-rwxrwxrwx 1 c c  35M Nov 23  2020 029 - 【Ｎ１文法】～たる - 1EEKFIErAOo.mp4
+-rwxrwxrwx 1 c c  21K Mar  7 12:18 030 - 【Ｎ１文法】～つ～つ - -gAWzoJKHUA.mhtml
+-rwxrwxrwx 1 c c  34M Mar 22  2020 030 - 【Ｎ１文法】～つ～つ - -gAWzoJKHUA.mp4
+-rwxrwxrwx 1 c c  21K Mar  7 12:18 031 - 【Ｎ１文法】～であれ・～であろうが・～であろうと - nSnmDdv0_94.mhtml
+-rwxrwxrwx 1 c c  46M Mar 29  2020 031 - 【Ｎ１文法】～であれ・～であろうが・～であろうと - nSnmDdv0_94.mp4
+-rwxrwxrwx 1 c c  20K Mar  7 12:18 032 - 【Ｎ１文法】～てからというもの - IXTZFJAzyH4.mhtml
+-rwxrwxrwx 1 c c  34M Apr  5  2020 032 - 【Ｎ１文法】～てからというもの - IXTZFJAzyH4.mp4
+-rwxrwxrwx 1 c c  20K Mar  7 12:18 033 - 【Ｎ１文法】～でなくて何だろう - RLOIgYR_EQE.mhtml
+-rwxrwxrwx 1 c c  34M Apr 12  2020 033 - 【Ｎ１文法】～でなくて何だろう - RLOIgYR_EQE.mp4
+-rwxrwxrwx 1 c c  19K Mar  7 12:18 034 - 【Ｎ１文法】～じゃあるまいし - L3ZqQS9QEi8.mhtml
+-rwxrwxrwx 1 c c  33M Apr 20  2020 034 - 【Ｎ１文法】～じゃあるまいし - L3ZqQS9QEi8.mp4
+-rwxrwxrwx 1 c c  20K Mar  7 12:18 035 - 【Ｎ１文法】～てやまない - YhtTq8HEu6Q.mhtml
+-rwxrwxrwx 1 c c  41M Apr 27  2020 035 - 【Ｎ１文法】～てやまない - YhtTq8HEu6Q.mp4
+-rwxrwxrwx 1 c c  20K Mar  7 12:19 036 - 【Ｎ１文法】～と相まって - yWP_zjQO7Mc.mhtml
+-rwxrwxrwx 1 c c  39M May  4  2020 036 - 【Ｎ１文法】～と相まって - yWP_zjQO7Mc.mp4
+-rwxrwxrwx 1 c c  21K Mar  7 12:19 037 - 【Ｎ１文法】～とあって - zVTNQp8zRqQ.mhtml
+-rwxrwxrwx 1 c c  32M May 11  2020 037 - 【Ｎ１文法】～とあって - zVTNQp8zRqQ.mp4
+-rwxrwxrwx 1 c c  20K Mar  7 12:19 038 - 【Ｎ１文法】～とあれば・～とあらば - A1gAfjsb7aI.mhtml
+-rwxrwxrwx 1 c c  49M May 18  2020 038 - 【Ｎ１文法】～とあれば・～とあらば - A1gAfjsb7aI.mp4
+-rwxrwxrwx 1 c c  21K Mar  7 12:19 039 - 【Ｎ１文法】～といい～といい - D6n-5lJKAAI.mhtml
+-rwxrwxrwx 1 c c  47M May 25  2020 039 - 【Ｎ１文法】～といい～といい - D6n-5lJKAAI.mp4
+-rwxrwxrwx 1 c c  21K Mar  7 12:19 040 - 【Ｎ１文法】～というところだ・～といったところだ - 46OysQ3yuDo.mhtml
+-rwxrwxrwx 1 c c  37M May 31  2020 040 - 【Ｎ１文法】～というところだ・～といったところだ - 46OysQ3yuDo.mp4
+-rwxrwxrwx 1 c c  20K Mar  7 12:19 041 - 【Ｎ１文法】～といえども - kBAnBnz-Ko4.mhtml
+-rwxrwxrwx 1 c c  49M Jun  8  2020 041 - 【Ｎ１文法】～といえども - kBAnBnz-Ko4.mp4
+-rwxrwxrwx 1 c c  21K Mar  7 12:19 042 - 【Ｎ１文法】～といったらない・～といったらありはしない - OEuN8W1gHk4.mhtml
+-rwxrwxrwx 1 c c  70M Jun 15  2020 042 - 【Ｎ１文法】～といったらない・～といったらありはしない - OEuN8W1gHk4.mp4
+-rwxrwxrwx 1 c c  21K Mar  7 12:19 043 - 【Ｎ１文法】～と思いきや - 8YdlTg-AiJk.mhtml
+-rwxrwxrwx 1 c c  45M Jun 22  2020 043 - 【Ｎ１文法】～と思いきや - 8YdlTg-AiJk.mp4
+-rwxrwxrwx 1 c c  20K Mar  7 12:19 044 - 【Ｎ１文法】～ときたら - v_AtbLYgtTw.mhtml
+-rwxrwxrwx 1 c c  36M Jun 29  2020 044 - 【Ｎ１文法】～ときたら - v_AtbLYgtTw.mp4
+-rwxrwxrwx 1 c c  21K Mar  7 12:19 045 - 【Ｎ１文法】～ところを - KoIcD_oxl-M.mhtml
+-rwxrwxrwx 1 c c  20M Jul  6  2020 045 - 【Ｎ１文法】～ところを - KoIcD_oxl-M.mp4
+-rwxrwxrwx 1 c c  21K Mar  7 12:19 046 - 【Ｎ１文法】～にしたところで・～としたところで - ZAeqJdd57Pw.mhtml
+-rwxrwxrwx 1 c c  46M Mar 28  2022 046 - 【Ｎ１文法】～にしたところで・～としたところで - ZAeqJdd57Pw.mp4
+-rwxrwxrwx 1 c c  19K Mar  7 12:19 047 - 【Ｎ１文法】～とは（驚き） - bmKC3veQbTs.mhtml
+-rwxrwxrwx 1 c c  45M Jul 20  2020 047 - 【Ｎ１文法】～とは（驚き） - bmKC3veQbTs.mp4
+-rwxrwxrwx 1 c c  20K Mar  7 12:19 048 - 【Ｎ１文法】～とはいえ - 3fZI-tTo3-c.mhtml
+-rwxrwxrwx 1 c c  36M Jul 27  2020 048 - 【Ｎ１文法】～とはいえ - 3fZI-tTo3-c.mp4
+-rwxrwxrwx 1 c c  19K Mar  7 12:19 049 - 【Ｎ１文法】～とばかりに - yQ_JzvONvbQ.mhtml
+-rwxrwxrwx 1 c c  41M Aug  1  2020 049 - 【Ｎ１文法】～とばかりに - yQ_JzvONvbQ.mp4
+-rwxrwxrwx 1 c c  23K Mar  7 12:19 050 - 【Ｎ１文法】～ともなく・～ともなしに - T6ifZr7bnbk.mhtml
+-rwxrwxrwx 1 c c  28M Aug 10  2020 050 - 【Ｎ１文法】～ともなく・～ともなしに - T6ifZr7bnbk.mp4
+-rwxrwxrwx 1 c c  20K Mar  7 12:19 051 - 【Ｎ１文法】～ともなると・～ともなれば - fuil6s0c6tE.mhtml
+-rwxrwxrwx 1 c c  29M Aug 17  2020 051 - 【Ｎ１文法】～ともなると・～ともなれば - fuil6s0c6tE.mp4
+-rwxrwxrwx 1 c c  22K Mar  7 12:19 052 - 【Ｎ１文法】～ないまでも - thnSrXnP2YI.mhtml
+-rwxrwxrwx 1 c c  27M Aug 24  2020 052 - 【Ｎ１文法】～ないまでも - thnSrXnP2YI.mp4
+-rwxrwxrwx 1 c c  21K Mar  7 12:19 053 - 【Ｎ１文法】～ないものでもない・～ないでもない・～なくもない - WrS31KB59J0.mhtml
+-rwxrwxrwx 1 c c  52M Aug 31  2020 053 - 【Ｎ１文法】～ないものでもない・～ないでもない・～なくもない - WrS31KB59J0.mp4
+-rwxrwxrwx 1 c c  21K Mar  7 12:19 054 - 【Ｎ１文法】～ながらに・～ながらの - Ybz1Eyha1p4.mhtml
+-rwxrwxrwx 1 c c  41M Sep  7  2020 054 - 【Ｎ１文法】～ながらに・～ながらの - Ybz1Eyha1p4.mp4
+-rwxrwxrwx 1 c c  19K Mar  7 12:19 055 - 【Ｎ１文法】～なくして - 1xzIzLAjdGU.mhtml
+-rwxrwxrwx 1 c c  30M Sep 14  2020 055 - 【Ｎ１文法】～なくして - 1xzIzLAjdGU.mp4
+-rwxrwxrwx 1 c c  21K Mar  7 12:19 056 - 【Ｎ１文法】～ならでは - 68GlfBnUEGQ.mhtml
+-rwxrwxrwx 1 c c  41M Mar 25  2022 056 - 【Ｎ１文法】～ならでは - 68GlfBnUEGQ.mp4
+-rwxrwxrwx 1 c c  20K Mar  7 12:19 057 - 【Ｎ１文法】～なり - HSEp-rpKiY8.mhtml
+-rwxrwxrwx 1 c c  34M Sep 28  2020 057 - 【Ｎ１文法】～なり - HSEp-rpKiY8.mp4
+-rwxrwxrwx 1 c c  21K Mar  7 12:20 058 - 【Ｎ１文法】～なり…なり - 5Z1W0ymvzPU.mhtml
+-rwxrwxrwx 1 c c  52M Oct 12  2020 058 - 【Ｎ１文法】～なり…なり - 5Z1W0ymvzPU.mp4
+-rwxrwxrwx 1 c c  21K Mar  7 12:20 059 - 【Ｎ１文法】～なりに・～なりの - RhUTMFxv6xM.mhtml
+-rwxrwxrwx 1 c c  39M Oct 18  2020 059 - 【Ｎ１文法】～なりに・～なりの - RhUTMFxv6xM.mp4
+-rwxrwxrwx 1 c c  21K Mar  7 12:20 060 - 【Ｎ１文法】～にはあたらない - 2WfA6PhMQw0.mhtml
+-rwxrwxrwx 1 c c  25M Oct 26  2020 060 - 【Ｎ１文法】～にはあたらない - 2WfA6PhMQw0.mp4
+-rwxrwxrwx 1 c c  20K Mar  7 12:20 061 - 【Ｎ１文法】～てはたまらない・～てはかなわない - JFRLbtS4NPc.mhtml
+-rwxrwxrwx 1 c c  48M Nov  2  2020 061 - 【Ｎ１文法】～てはたまらない・～てはかなわない - JFRLbtS4NPc.mp4
+-rwxrwxrwx 1 c c  21K Mar  7 12:20 062 - 【Ｎ１文法】～にあって - CIFpXDqXblo.mhtml
+-rwxrwxrwx 1 c c  27M Nov  8  2020 062 - 【Ｎ１文法】～にあって - CIFpXDqXblo.mp4
+-rwxrwxrwx 1 c c  22K Mar  7 12:20 063 - 【Ｎ１文法】～に至って・～に至る - Jmx2YdBTdAs.mhtml
+-rwxrwxrwx 1 c c  48M Nov 16  2020 063 - 【Ｎ１文法】～に至って・～に至る - Jmx2YdBTdAs.mp4
+-rwxrwxrwx 1 c c  20K Mar  7 12:20 064 - 【Ｎ１文法】～に至るまで - Dw3Wt7bs0BE.mhtml
+-rwxrwxrwx 1 c c  31M Nov 23  2020 064 - 【Ｎ１文法】～に至るまで - Dw3Wt7bs0BE.mp4
+-rwxrwxrwx 1 c c  19K Mar  7 12:20 065 - 【Ｎ１文法】～にかかわる - wODZUb1UTDQ.mhtml
+-rwxrwxrwx 1 c c  49M Nov 30  2020 065 - 【Ｎ１文法】～にかかわる - wODZUb1UTDQ.mp4
+-rwxrwxrwx 1 c c  19K Mar  7 12:20 066 - 【Ｎ１文法】～にかたくない - s8QdXDh4MNM.mhtml
+-rwxrwxrwx 1 c c  38M Dec  7  2020 066 - 【Ｎ１文法】～にかたくない - s8QdXDh4MNM.mp4
+-rwxrwxrwx 1 c c  20K Mar  7 12:20 067 - 【Ｎ１文法】～にして - FlPrxmLRwYw.mhtml
+-rwxrwxrwx 1 c c  34M Dec 14  2020 067 - 【Ｎ１文法】～にして - FlPrxmLRwYw.mp4
+-rwxrwxrwx 1 c c  21K Mar  7 12:20 068 - 【Ｎ１文法】～に即して - OW7LwiETSJg.mhtml
+-rwxrwxrwx 1 c c  37M Dec 21  2020 068 - 【Ｎ１文法】～に即して - OW7LwiETSJg.mp4
+-rwxrwxrwx 1 c c  21K Mar  7 12:20 069 - 【Ｎ１文法】～に則して・～に則って - 5HXMqwTE6S4.mhtml
+-rwxrwxrwx 1 c c  35M Jan  4  2021 069 - 【Ｎ１文法】～に則して・～に則って - 5HXMqwTE6S4.mp4
+-rwxrwxrwx 1 c c  21K Mar  7 12:20 070 - 【Ｎ１文法】～にたえる・～にたえない - uzlbp-VVi4w.mhtml
+-rwxrwxrwx 1 c c  42M Jan 18  2021 070 - 【Ｎ１文法】～にたえる・～にたえない - uzlbp-VVi4w.mp4
+-rwxrwxrwx 1 c c  20K Mar  7 12:20 071 - 【Ｎ１文法】～に足る - tVT8FHHVzRw.mhtml
+-rwxrwxrwx 1 c c  44M Jan 25  2021 071 - 【Ｎ１文法】～に足る - tVT8FHHVzRw.mp4
+-rwxrwxrwx 1 c c  21K Mar  7 12:20 072 - 【Ｎ１文法】～にひきかえ - t02Z4RI-Iyo.mhtml
+-rwxrwxrwx 1 c c  45M Feb  1  2021 072 - 【Ｎ１文法】～にひきかえ - t02Z4RI-Iyo.mp4
+-rwxrwxrwx 1 c c  21K Mar  7 12:20 073 - 【Ｎ１文法】～にもまして - pElS3iF95QA.mhtml
+-rwxrwxrwx 1 c c  24M Feb  8  2021 073 - 【Ｎ１文法】～にもまして - pElS3iF95QA.mp4
+-rwxrwxrwx 1 c c  20K Mar  7 12:20 074 - 【Ｎ１文法】～の至り - Vj-Ln20VoMo.mhtml
+-rwxrwxrwx 1 c c  43M Feb 22  2021 074 - 【Ｎ１文法】～の至り - Vj-Ln20VoMo.mp4
+-rwxrwxrwx 1 c c  19K Mar  7 12:20 075 - 【Ｎ１文法】～の極み - NUlTkRhj_IE.mhtml
+-rwxrwxrwx 1 c c  29M Mar  1  2021 075 - 【Ｎ１文法】～の極み - NUlTkRhj_IE.mp4
+-rwxrwxrwx 1 c c  20K Mar  7 12:20 076 - 【Ｎ１文法】～はおろか - WFxgzr2k-c0.mhtml
+-rwxrwxrwx 1 c c  36M Mar 15  2021 076 - 【Ｎ１文法】～はおろか - WFxgzr2k-c0.mp4
+-rwxrwxrwx 1 c c  20K Mar  7 12:20 077 - 【Ｎ１文法】～ばこそ - XK1wiWgG1Mg.mhtml
+-rwxrwxrwx 1 c c  33M Mar 22  2021 077 - 【Ｎ１文法】～ばこそ - XK1wiWgG1Mg.mp4
+-rwxrwxrwx 1 c c  21K Mar  7 12:20 078 - 【Ｎ１文法】～ばそれまでだ - uttTuTZnYdk.mhtml
+-rwxrwxrwx 1 c c  27M Mar 29  2021 078 - 【Ｎ１文法】～ばそれまでだ - uttTuTZnYdk.mp4
+-rwxrwxrwx 1 c c  21K Mar  7 12:20 079 - 【Ｎ１文法】～べからず・～べからざる - SW2I17AydUk.mhtml
+-rwxrwxrwx 1 c c  31M Sep  4  2021 079 - 【Ｎ１文法】～べからず・～べからざる - SW2I17AydUk.mp4
+-rwxrwxrwx 1 c c  20K Mar  7 12:20 080 - 【Ｎ１文法】～のではあるまいか - WcX612HIgsU.mhtml
+-rwxrwxrwx 1 c c  55M Aug 28  2021 080 - 【Ｎ１文法】～のではあるまいか - WcX612HIgsU.mp4
+-rwxrwxrwx 1 c c  18K Mar  7 12:20 081 - 【Ｎ１文法】～べく - gRVbiEhaGAo.mhtml
+-rwxrwxrwx 1 c c  41M Aug 31  2021 081 - 【Ｎ１文法】～べく - gRVbiEhaGAo.mp4
+-rwxrwxrwx 1 c c  19K Mar  7 12:21 082 - 【Ｎ１文法】～まじき - 1646BIHTzJE.mhtml
+-rwxrwxrwx 1 c c  68M Apr 27  2021 082 - 【Ｎ１文法】～まじき - 1646BIHTzJE.mp4
+-rwxrwxrwx 1 c c  20K Mar  7 12:21 083 - 【Ｎ１文法】～までだ・～までのことだ - hWR5frxrwNY.mhtml
+-rwxrwxrwx 1 c c  27M Sep  5  2021 083 - 【Ｎ１文法】～までだ・～までのことだ - hWR5frxrwNY.mp4
+-rwxrwxrwx 1 c c  19K Mar  7 12:21 084 - 【Ｎ１文法】～までもない・～までもなく - cC2Z_xIDBG0.mhtml
+-rwxrwxrwx 1 c c  17M May 20  2021 084 - 【Ｎ１文法】～までもない・～までもなく - cC2Z_xIDBG0.mp4
+-rwxrwxrwx 1 c c  18K Mar  7 12:21 085 - 【Ｎ１文法】～まみれ - g6kPthK-Olw.mhtml
+-rwxrwxrwx 1 c c  94M Jun  2  2021 085 - 【Ｎ１文法】～まみれ - g6kPthK-Olw.mp4
+-rwxrwxrwx 1 c c  20K Mar  7 12:21 086 - 【Ｎ１文法】～めく - IBL5qeByTtI.mhtml
+-rwxrwxrwx 1 c c  36M Jun 14  2021 086 - 【Ｎ１文法】～めく - IBL5qeByTtI.mp4
+-rwxrwxrwx 1 c c  21K Mar  7 12:21 087 - 【Ｎ１文法】～もさることながら - eZAMuinhaCk.mhtml
+-rwxrwxrwx 1 c c  39M Aug 31  2021 087 - 【Ｎ１文法】～もさることながら - eZAMuinhaCk.mp4
+-rwxrwxrwx 1 c c  19K Mar  7 12:21 088 - 【Ｎ１文法】～ものを - hHYfmqtNDd0.mhtml
+-rwxrwxrwx 1 c c  97M Sep  1  2021 088 - 【Ｎ１文法】～ものを - hHYfmqtNDd0.mp4
+-rwxrwxrwx 1 c c  18K Mar  7 12:21 089 - 【Ｎ１文法】～や否や - 1cplsdGCQdc.mhtml
+-rwxrwxrwx 1 c c 112M Jul 19  2021 089 - 【Ｎ１文法】～や否や - 1cplsdGCQdc.mp4
+-rwxrwxrwx 1 c c  20K Mar  7 12:21 090 - 【Ｎ１文法】～ゆえに - h_e5NQXLK2o.mhtml
+-rwxrwxrwx 1 c c  40M Sep  6  2021 090 - 【Ｎ１文法】～ゆえに - h_e5NQXLK2o.mp4
+-rwxrwxrwx 1 c c  19K Mar  7 12:21 091 - 【Ｎ１文法】～をおいて…ない - 27do6duyRS0.mhtml
+-rwxrwxrwx 1 c c  28M Aug 11  2021 091 - 【Ｎ１文法】～をおいて…ない - 27do6duyRS0.mp4
+-rwxrwxrwx 1 c c  21K Mar  7 12:21 092 - 【Ｎ１文法】～を限りに・～限りで - V5gXshLThQU.mhtml
+-rwxrwxrwx 1 c c  34M Aug 22  2021 092 - 【Ｎ１文法】～を限りに・～限りで - V5gXshLThQU.mp4
+-rwxrwxrwx 1 c c  20K Mar  7 12:21 093 - 【Ｎ１文法】～をもって - G6WNN0N1ReY.mhtml
+-rwxrwxrwx 1 c c  66M Sep  5  2021 093 - 【Ｎ１文法】～をもって - G6WNN0N1ReY.mp4
+-rwxrwxrwx 1 c c  22K Mar  7 12:21 094 - 【Ｎ１文法】～を皮切りにして・～を皮切りとして - Z4fZ_K2gQec.mhtml
+-rwxrwxrwx 1 c c  67M Sep 16  2021 094 - 【Ｎ１文法】～を皮切りにして・～を皮切りとして - Z4fZ_K2gQec.mp4
+-rwxrwxrwx 1 c c  20K Mar  7 12:21 095 - 【Ｎ１文法】～を禁じ得ない - a6tUSIXAWLc.mhtml
+-rwxrwxrwx 1 c c  41M Sep 30  2021 095 - 【Ｎ１文法】～を禁じ得ない - a6tUSIXAWLc.mp4
+-rwxrwxrwx 1 c c  20K Mar  7 12:22 096 - 【Ｎ１文法】～をものともせずに - WUGUpc-tk9A.mhtml
+-rwxrwxrwx 1 c c  42M Oct 13  2021 096 - 【Ｎ１文法】～をものともせずに - WUGUpc-tk9A.mp4
+-rwxrwxrwx 1 c c  20K Mar  7 12:22 097 - 【Ｎ１文法】～を余儀なくされる・～を余儀なくさせる - SFu1p8LURBw.mhtml
+-rwxrwxrwx 1 c c  69M Oct 25  2021 097 - 【Ｎ１文法】～を余儀なくされる・～を余儀なくさせる - SFu1p8LURBw.mp4
+-rwxrwxrwx 1 c c  19K Mar  7 12:23 098 - 【Ｎ１文法】～をよそに - t086wqTJ8nw.mhtml
+-rwxrwxrwx 1 c c  61M Nov  4  2021 098 - 【Ｎ１文法】～をよそに - t086wqTJ8nw.mp4
+-rwxrwxrwx 1 c c  20K Mar  7 12:23 099 - 【Ｎ１文法】～んがために - FMtkQNJDlEc.mhtml
+-rwxrwxrwx 1 c c  72M Nov 17  2021 099 - 【Ｎ１文法】～んがために - FMtkQNJDlEc.mp4
+-rwxrwxrwx 1 c c  21K Mar  7 12:23 100 - 【Ｎ１文法】～んばかりに - Jf_jkij1vCM.mhtml
+-rwxrwxrwx 1 c c  35M Nov 29  2021 100 - 【Ｎ１文法】～んばかりに - Jf_jkij1vCM.mp4
+-rwxrwxrwx 1 c c  21K Mar  7 12:23 101 - 【Ｎ１文法】～次第だ（経緯） - rJmduPWOxXU.mhtml
+-rwxrwxrwx 1 c c  49M Dec 15  2021 101 - 【Ｎ１文法】～次第だ（経緯） - rJmduPWOxXU.mp4
+-rwxrwxrwx 1 c c  23K Mar  7 12:23 102 - 【Ｎ１文法】～に～ない - 5i8tp2-dTwc.mhtml
+-rwxrwxrwx 1 c c  44M Dec 27  2021 102 - 【Ｎ１文法】～に～ない - 5i8tp2-dTwc.mp4
+-rwxrwxrwx 1 c c  20K Mar  7 12:23 103 - 【Ｎ１文法】～以前に - iqeOpUIxPoI.mhtml
+-rwxrwxrwx 1 c c  70M Jan  6  2022 103 - 【Ｎ１文法】～以前に - iqeOpUIxPoI.mp4
+-rwxrwxrwx 1 c c  19K Mar  7 12:23 104 - 【Ｎ１文法】～たら～たで・～ば～で - 21HSWTuemWw.mhtml
+-rwxrwxrwx 1 c c  46M Jan 19  2022 104 - 【Ｎ１文法】～たら～たで・～ば～で - 21HSWTuemWw.mp4
+-rwxrwxrwx 1 c c  20K Mar  7 12:24 105 - 【Ｎ１文法】～なら～で - YMQflZaqCXs.mhtml
+-rwxrwxrwx 1 c c  32M Feb  9  2022 105 - 【Ｎ１文法】～なら～で - YMQflZaqCXs.mp4
+-rwxrwxrwx 1 c c  20K Mar  7 12:24 106 - 【Ｎ１文法】～に越したことはない - 8muGKqcR5Z4.mhtml
+-rwxrwxrwx 1 c c  29M Feb 23  2022 106 - 【Ｎ１文法】～に越したことはない - 8muGKqcR5Z4.mp4
+-rwxrwxrwx 1 c c  20K Mar  7 12:24 107 - 【Ｎ１文法】～にも程がある - 4zjU-8occw4.mhtml
+-rwxrwxrwx 1 c c  31M Mar  9  2022 107 - 【Ｎ１文法】～にも程がある - 4zjU-8occw4.mp4
+-rwxrwxrwx 1 c c  21K Mar  7 12:25 108 - 【Ｎ１文法】～べくして - KIDK-Hn1gd8.mhtml
+-rwxrwxrwx 1 c c  30M Mar 24  2022 108 - 【Ｎ１文法】～べくして - KIDK-Hn1gd8.mp4
+-rwxrwxrwx 1 c c  21K Mar  7 12:25 109 - 【Ｎ１文法】～ならまだしも・～はまだしも - VPVKPp31HjQ.mhtml
+-rwxrwxrwx 1 c c  27M Apr  7  2022 109 - 【Ｎ１文法】～ならまだしも・～はまだしも - VPVKPp31HjQ.mp4
+-rwxrwxrwx 1 c c  20K Mar  7 12:26 110 - 【Ｎ１文法】～をいいことに - WH5CRH_Nx3o.mhtml
+-rwxrwxrwx 1 c c  29M Apr 25  2022 110 - 【Ｎ１文法】～をいいことに - WH5CRH_Nx3o.mp4
+-rwxrwxrwx 1 c c  20K Mar  7 12:26 111 - 【Ｎ１文法】～はずみに・～はずみで・～拍子に・～拍子で - dulWkJI86po.mhtml
+-rwxrwxrwx 1 c c  35M May 19  2022 111 - 【Ｎ１文法】～はずみに・～はずみで・～拍子に・～拍子で - dulWkJI86po.mp4
+-rwxrwxrwx 1 c c  21K Mar  7 12:27 112 - 【Ｎ１文法】～もあって - eltIKg5AsU4.mhtml
+-rwxrwxrwx 1 c c  40M Jun  6  2022 112 - 【Ｎ１文法】～もあって - eltIKg5AsU4.mp4
+-rwxrwxrwx 1 c c  22K Mar  7 12:27 113 - 【Ｎ１文法】～かいがある・～がい - uHbi7GsmbRE.mhtml
+-rwxrwxrwx 1 c c  48M Jun 22  2022 113 - 【Ｎ１文法】～かいがある・～がい - uHbi7GsmbRE.mp4
+-rwxrwxrwx 1 c c  21K Mar  7 12:27 114 - 【Ｎ１文法】～わ…わ - 46UlBJD2OvU.mhtml
+-rwxrwxrwx 1 c c  41M Jul 24  2022 114 - 【Ｎ１文法】～わ…わ - 46UlBJD2OvU.mp4
+-rwxrwxrwx 1 c c  20K Mar  7 12:27 115 - 【Ｎ１文法】～だの…だの - R7_rnCTjg3E.mhtml
+-rwxrwxrwx 1 c c  19K Mar  7 12:28 116 - 【Ｎ１文法】～ありき - VUfRGTJPN3o.mhtml
+-rwxrwxrwx 1 c c  21K Mar  7 12:28 117 - 【Ｎ１文法】～ならいざしらず・～はいざしらず - K89UhocxPco.mhtml
+-rwxrwxrwx 1 c c  20K Mar  7 12:29 118 - 【Ｎ１文法】～ようによって - RsvV_lgs-Fc.mhtml
+-rwxrwxrwx 1 c c  21K Mar  7 12:29 119 - 【Ｎ１文法】～ひとつで - lLmmaSLkcJ8.mhtml
+-rwxrwxrwx 1 c c  21K Mar  7 12:30 120 - 【Ｎ１文法】～たためしがない - xJV69s_OSXM.mhtml
+
+./N2:
+total 5.0G
+-rwxrwxrwx 1 c c 19K Mar  7 12:34 001 - 【Ｎ２文法】～あげく - 0TbPGbvdOnk.mhtml
+-rwxrwxrwx 1 c c 53M Sep  2  2019 001 - 【Ｎ２文法】～あげく - 0TbPGbvdOnk.mp4
+-rwxrwxrwx 1 c c 18K Mar  7 12:34 002 - 【Ｎ２文法】～あまり・あまりの～に - of-OKemjtIg.mhtml
+-rwxrwxrwx 1 c c 36M Sep 10  2019 002 - 【Ｎ２文法】～あまり・あまりの～に - of-OKemjtIg.mp4
+-rwxrwxrwx 1 c c 17K Mar  7 12:34 003 - 【Ｎ２文法】～以上 - 8eR4uv3Teqo.mhtml
+-rwxrwxrwx 1 c c 29M Sep 17  2019 003 - 【Ｎ２文法】～以上 - 8eR4uv3Teqo.mp4
+-rwxrwxrwx 1 c c 19K Mar  7 12:34 004 - 【Ｎ２文法】～一方 - zCynWJOvLHs.mhtml
+-rwxrwxrwx 1 c c 34M Sep 20  2019 004 - 【Ｎ２文法】～一方 - zCynWJOvLHs.mp4
+-rwxrwxrwx 1 c c 19K Mar  7 12:34 005 - 【Ｎ２文法】～うえで - 0PP3iRUEyPY.mhtml
+-rwxrwxrwx 1 c c 32M Sep 30  2019 005 - 【Ｎ２文法】～うえで - 0PP3iRUEyPY.mp4
+-rwxrwxrwx 1 c c 18K Mar  7 12:34 006 - 【Ｎ２文法】～うえで ② - 3-2E8UOc_Uk.mhtml
+-rwxrwxrwx 1 c c 25M Oct  7  2019 006 - 【Ｎ２文法】～うえで ② - 3-2E8UOc_Uk.mp4
+-rwxrwxrwx 1 c c 17K Mar  7 12:34 007 - 【Ｎ２文法】～うえは - 1GcfmfeehhA.mhtml
+-rwxrwxrwx 1 c c 26M Oct 15  2019 007 - 【Ｎ２文法】～うえは - 1GcfmfeehhA.mp4
+-rwxrwxrwx 1 c c 18K Mar  7 12:35 008 - 【Ｎ２文法】～うではないか - I5EXdCdUeuY.mhtml
+-rwxrwxrwx 1 c c 33M Oct 22  2019 008 - 【Ｎ２文法】～うではないか - I5EXdCdUeuY.mp4
+-rwxrwxrwx 1 c c 18K Mar  7 12:35 009 - 【Ｎ２文法】～得る - Wlaszf9jtMw.mhtml
+-rwxrwxrwx 1 c c 42M Oct 28  2019 009 - 【Ｎ２文法】～得る - Wlaszf9jtMw.mp4
+-rwxrwxrwx 1 c c 19K Mar  7 12:35 010 - 【Ｎ２文法】～かぎり - UdEXtcAHrio.mhtml
+-rwxrwxrwx 1 c c 39M Nov  5  2019 010 - 【Ｎ２文法】～かぎり - UdEXtcAHrio.mp4
+-rwxrwxrwx 1 c c 18K Mar  7 12:35 011 - 【Ｎ２文法】～かぎりでは - v-WsbalLsys.mhtml
+-rwxrwxrwx 1 c c 30M Nov 12  2019 011 - 【Ｎ２文法】～かぎりでは - v-WsbalLsys.mp4
+-rwxrwxrwx 1 c c 18K Mar  7 12:35 012 - 【Ｎ２文法】～がたい - q6-vDbkUCuQ.mhtml
+-rwxrwxrwx 1 c c 48M Nov 19  2019 012 - 【Ｎ２文法】～がたい - q6-vDbkUCuQ.mp4
+-rwxrwxrwx 1 c c 18K Mar  7 12:35 013 - 【Ｎ２文法】～かねる - 3Bh5NtPCjZ0.mhtml
+-rwxrwxrwx 1 c c 38M Nov 24  2019 013 - 【Ｎ２文法】～かねる - 3Bh5NtPCjZ0.mp4
+-rwxrwxrwx 1 c c 18K Mar  7 12:35 014 - 【Ｎ２文法】～かねない - AnjKaxpRvcA.mhtml
+-rwxrwxrwx 1 c c 32M Dec  1  2019 014 - 【Ｎ２文法】～かねない - AnjKaxpRvcA.mp4
+-rwxrwxrwx 1 c c 18K Mar  7 12:35 015 - 【Ｎ２文法】～からして - v7JYlTY6Pw8.mhtml
+-rwxrwxrwx 1 c c 46M Dec 10  2019 015 - 【Ｎ２文法】～からして - v7JYlTY6Pw8.mp4
+-rwxrwxrwx 1 c c 19K Mar  7 12:35 016 - 【Ｎ２文法】～からして・～からすると・～からすれば・～からしたら - HpgxnqP86b0.mhtml
+-rwxrwxrwx 1 c c 53M Dec 16  2019 016 - 【Ｎ２文法】～からして・～からすると・～からすれば・～からしたら - HpgxnqP86b0.mp4
+-rwxrwxrwx 1 c c 19K Mar  7 12:35 017 - 【Ｎ２文法】～からといって・～からって - 2lnBizmxPP8.mhtml
+-rwxrwxrwx 1 c c 48M Dec 23  2019 017 - 【Ｎ２文法】～からといって・～からって - 2lnBizmxPP8.mp4
+-rwxrwxrwx 1 c c 19K Mar  7 12:35 018 - 【Ｎ２文法】～気味 - jQI2eMa-Okk.mhtml
+-rwxrwxrwx 1 c c 35M Dec 29  2019 018 - 【Ｎ２文法】～気味 - jQI2eMa-Okk.mp4
+-rwxrwxrwx 1 c c 20K Mar  7 12:35 019 - 【Ｎ２文法】～きり - hyxqgVuJGlM.mhtml
+-rwxrwxrwx 1 c c 66M Jan 12  2020 019 - 【Ｎ２文法】～きり - hyxqgVuJGlM.mp4
+-rwxrwxrwx 1 c c 18K Mar  7 12:35 020 - 【Ｎ２文法】～くせに・～くせして - NjiBfERrh2c.mhtml
+-rwxrwxrwx 1 c c 56M Jan 12  2020 020 - 【Ｎ２文法】～くせに・～くせして - NjiBfERrh2c.mp4
+-rwxrwxrwx 1 c c 18K Mar  7 12:35 021 - 【Ｎ２文法】～げ - 8MK23odknRA.mhtml
+-rwxrwxrwx 1 c c 60M Jan 21  2020 021 - 【Ｎ２文法】～げ - 8MK23odknRA.mp4
+-rwxrwxrwx 1 c c 19K Mar  7 12:35 022 - 【Ｎ２文法】～ことだ（忠告） - EIj1cXNckbw.mhtml
+-rwxrwxrwx 1 c c 41M Jan 27  2020 022 - 【Ｎ２文法】～ことだ（忠告） - EIj1cXNckbw.mp4
+-rwxrwxrwx 1 c c 20K Mar  7 12:35 023 - 【Ｎ２文法】～ことだ（感慨） - LSZnmzjWGjs.mhtml
+-rwxrwxrwx 1 c c 33M Feb  4  2020 023 - 【Ｎ２文法】～ことだ（感慨） - LSZnmzjWGjs.mp4
+-rwxrwxrwx 1 c c 20K Mar  7 12:35 024 - 【Ｎ２文法】～ことなく - ZN0o9pAPoeQ.mhtml
+-rwxrwxrwx 1 c c 24M Feb 11  2020 024 - 【Ｎ２文法】～ことなく - ZN0o9pAPoeQ.mp4
+-rwxrwxrwx 1 c c 18K Mar  7 12:35 025 - 【Ｎ２文法】～ことに - la5VjvBvcWQ.mhtml
+-rwxrwxrwx 1 c c 28M Feb 18  2020 025 - 【Ｎ２文法】～ことに - la5VjvBvcWQ.mp4
+-rwxrwxrwx 1 c c 19K Mar  7 12:35 026 - 【Ｎ２文法】～ざるを得ない - Or4ETc1J05A.mhtml
+-rwxrwxrwx 1 c c 32M Feb 25  2020 026 - 【Ｎ２文法】～ざるを得ない - Or4ETc1J05A.mp4
+-rwxrwxrwx 1 c c 18K Mar  7 12:35 027 - 【Ｎ２文法】～次第 - yXxgyzUD9Zk.mhtml
+-rwxrwxrwx 1 c c 40M Mar  2  2020 027 - 【Ｎ２文法】～次第 - yXxgyzUD9Zk.mp4
+-rwxrwxrwx 1 c c 19K Mar  7 12:35 028 - 【Ｎ２文法】～次第で - TO5udupnABA.mhtml
+-rwxrwxrwx 1 c c 44M Jan  3  2021 028 - 【Ｎ２文法】～次第で - TO5udupnABA.mp4
+-rwxrwxrwx 1 c c 19K Mar  7 12:35 029 - 【Ｎ２文法】～次第では - L37fty3IkFI.mhtml
+-rwxrwxrwx 1 c c 60M Dec  6  2020 029 - 【Ｎ２文法】～次第では - L37fty3IkFI.mp4
+-rwxrwxrwx 1 c c 19K Mar  7 12:35 030 - 【Ｎ２文法】～上・～の上で - d0OkC7b2RIc.mhtml
+-rwxrwxrwx 1 c c 32M Mar 23  2020 030 - 【Ｎ２文法】～上・～の上で - d0OkC7b2RIc.mp4
+-rwxrwxrwx 1 c c 19K Mar  7 12:35 031 - 【Ｎ２文法】～ないではいられない・～ずにはいられない - 0omyd3R9OsU.mhtml
+-rwxrwxrwx 1 c c 65M Mar 30  2020 031 - 【Ｎ２文法】～ないではいられない・～ずにはいられない - 0omyd3R9OsU.mp4
+-rwxrwxrwx 1 c c 19K Mar  7 12:36 032 - 【Ｎ２文法】～だけに・～だけあって・～だけのことはある - cvi8jfADA2A.mhtml
+-rwxrwxrwx 1 c c 58M Apr  6  2020 032 - 【Ｎ２文法】～だけに・～だけあって・～だけのことはある - cvi8jfADA2A.mp4
+-rwxrwxrwx 1 c c 19K Mar  7 12:36 033 - 【Ｎ２文法】～っこない - Q-xbY9HRrdY.mhtml
+-rwxrwxrwx 1 c c 47M Apr 14  2020 033 - 【Ｎ２文法】～っこない - Q-xbY9HRrdY.mp4
+-rwxrwxrwx 1 c c 20K Mar  7 12:36 034 - 【Ｎ２文法】～つつ - sS-g4EFO4sM.mhtml
+-rwxrwxrwx 1 c c 24M Apr 21  2020 034 - 【Ｎ２文法】～つつ - sS-g4EFO4sM.mp4
+-rwxrwxrwx 1 c c 19K Mar  7 12:36 035 - 【Ｎ２文法】～つつ ② - MSXKOSIyeLU.mhtml
+-rwxrwxrwx 1 c c 76M Apr 28  2020 035 - 【Ｎ２文法】～つつ ② - MSXKOSIyeLU.mp4
+-rwxrwxrwx 1 c c 19K Mar  7 12:36 036 - 【Ｎ２文法】～つつある - YZFlUq8fruM.mhtml
+-rwxrwxrwx 1 c c 47M May  5  2020 036 - 【Ｎ２文法】～つつある - YZFlUq8fruM.mp4
+-rwxrwxrwx 1 c c 19K Mar  7 12:36 037 - 【Ｎ２文法】～っぱなし - JUzdzmSNBnc.mhtml
+-rwxrwxrwx 1 c c 38M May 12  2020 037 - 【Ｎ２文法】～っぱなし - JUzdzmSNBnc.mp4
+-rwxrwxrwx 1 c c 20K Mar  7 12:36 038 - 【Ｎ２文法】～て以来 - m1B0UAdCyx4.mhtml
+-rwxrwxrwx 1 c c 38M Sep  1  2021 038 - 【Ｎ２文法】～て以来 - m1B0UAdCyx4.mp4
+-rwxrwxrwx 1 c c 20K Mar  7 12:36 039 - 【Ｎ２文法】～てならない - R1wsk7Vwp4o.mhtml
+-rwxrwxrwx 1 c c 84M May 26  2020 039 - 【Ｎ２文法】～てならない - R1wsk7Vwp4o.mp4
+-rwxrwxrwx 1 c c 20K Mar  7 12:36 040 - 【Ｎ２文法】～と言えば・～と言うと・～と言ったら - kyUkRNbNZt4.mhtml
+-rwxrwxrwx 1 c c 61M Jun  2  2020 040 - 【Ｎ２文法】～と言えば・～と言うと・～と言ったら - kyUkRNbNZt4.mp4
+-rwxrwxrwx 1 c c 19K Mar  7 12:36 041 - 【Ｎ２文法】～ってば・～ったら - CePgw4ytv6s.mhtml
+-rwxrwxrwx 1 c c 41M Jun  9  2020 041 - 【Ｎ２文法】～ってば・～ったら - CePgw4ytv6s.mp4
+-rwxrwxrwx 1 c c 20K Mar  7 12:36 042 - 【Ｎ２文法】～というものだ - fjCnCn3XeMM.mhtml
+-rwxrwxrwx 1 c c 33M Jun 16  2020 042 - 【Ｎ２文法】～というものだ - fjCnCn3XeMM.mp4
+-rwxrwxrwx 1 c c 19K Mar  7 12:36 043 - 【Ｎ２文法】～というものではない - vtDaCeCqZtY.mhtml
+-rwxrwxrwx 1 c c 34M Jun 23  2020 043 - 【Ｎ２文法】～というものではない - vtDaCeCqZtY.mp4
+-rwxrwxrwx 1 c c 20K Mar  7 12:36 044 - 【Ｎ２文法】～とか - EDDW1yBK_YA.mhtml
+-rwxrwxrwx 1 c c 29M Jun 30  2020 044 - 【Ｎ２文法】～とか - EDDW1yBK_YA.mp4
+-rwxrwxrwx 1 c c 20K Mar  7 12:36 045 - 【Ｎ２文法】～どころか - ub6r4TY5K60.mhtml
+-rwxrwxrwx 1 c c 37M Jul  7  2020 045 - 【Ｎ２文法】～どころか - ub6r4TY5K60.mp4
+-rwxrwxrwx 1 c c 20K Mar  7 12:36 046 - 【Ｎ２文法】～どころではない - 8ZtJ0uohZ0s.mhtml
+-rwxrwxrwx 1 c c 27M Jul 14  2020 046 - 【Ｎ２文法】～どころではない - 8ZtJ0uohZ0s.mp4
+-rwxrwxrwx 1 c c 20K Mar  7 12:36 047 - 【Ｎ２文法】～とともに - TOr-pnXz27Q.mhtml
+-rwxrwxrwx 1 c c 76M Jul 21  2020 047 - 【Ｎ２文法】～とともに - TOr-pnXz27Q.mp4
+-rwxrwxrwx 1 c c 19K Mar  7 12:36 048 - 【Ｎ２文法】～ないことには - k6fYjYfmDeY.mhtml
+-rwxrwxrwx 1 c c 40M Jul 28  2020 048 - 【Ｎ２文法】～ないことには - k6fYjYfmDeY.mp4
+-rwxrwxrwx 1 c c 18K Mar  7 12:36 049 - 【Ｎ２文法】～ないことはない - IuxmJ_lnzfI.mhtml
+-rwxrwxrwx 1 c c 45M Aug  1  2020 049 - 【Ｎ２文法】～ないことはない - IuxmJ_lnzfI.mp4
+-rwxrwxrwx 1 c c 21K Mar  7 12:36 050 - 【Ｎ２文法】～ながら（逆接） - jW-sCNpmoJA.mhtml
+-rwxrwxrwx 1 c c 53M Aug 11  2020 050 - 【Ｎ２文法】～ながら（逆接） - jW-sCNpmoJA.mp4
+-rwxrwxrwx 1 c c 20K Mar  7 12:36 051 - 【Ｎ２文法】～にあたって - PnjDdZWPePM.mhtml
+-rwxrwxrwx 1 c c 57M Aug 18  2020 051 - 【Ｎ２文法】～にあたって - PnjDdZWPePM.mp4
+-rwxrwxrwx 1 c c 20K Mar  7 12:36 052 - 【Ｎ２文法】～に応じて - RlISE-Ee1lE.mhtml
+-rwxrwxrwx 1 c c 60M Aug 25  2020 052 - 【Ｎ２文法】～に応じて - RlISE-Ee1lE.mp4
+-rwxrwxrwx 1 c c 20K Mar  7 12:36 053 - 【Ｎ２文法】～にかかわりなく・～にかかわらず - HrCCxT_k5Z8.mhtml
+-rwxrwxrwx 1 c c 48M Sep  1  2020 053 - 【Ｎ２文法】～にかかわりなく・～にかかわらず - HrCCxT_k5Z8.mp4
+-rwxrwxrwx 1 c c 19K Mar  7 12:36 054 - 【Ｎ２文法】～にもかかわらず - 3bD67vBoHK8.mhtml
+-rwxrwxrwx 1 c c 65M Sep  8  2020 054 - 【Ｎ２文法】～にもかかわらず - 3bD67vBoHK8.mp4
+-rwxrwxrwx 1 c c 19K Mar  7 12:36 055 - 【Ｎ２文法】～に限って - OvJJmT3457U.mhtml
+-rwxrwxrwx 1 c c 46M Sep 15  2020 055 - 【Ｎ２文法】～に限って - OvJJmT3457U.mp4
+-rwxrwxrwx 1 c c 20K Mar  7 12:36 056 - 【Ｎ２文法】～に限らず - KzLjPSdmKDU.mhtml
+-rwxrwxrwx 1 c c 25M Sep 22  2020 056 - 【Ｎ２文法】～に限らず - KzLjPSdmKDU.mp4
+-rwxrwxrwx 1 c c 20K Mar  7 12:36 057 - 【Ｎ２文法】～に限り（限定） - B-jscsXjwpk.mhtml
+-rwxrwxrwx 1 c c 49M Sep 29  2020 057 - 【Ｎ２文法】～に限り（限定） - B-jscsXjwpk.mp4
+-rwxrwxrwx 1 c c 19K Mar  7 12:36 058 - 【Ｎ２文法】～に関して - GS6viANd0NU.mhtml
+-rwxrwxrwx 1 c c 28M Oct 13  2020 058 - 【Ｎ２文法】～に関して - GS6viANd0NU.mp4
+-rwxrwxrwx 1 c c 19K Mar  7 12:37 059 - 【Ｎ２文法】～に相違ない - 2k-Y5QYwQxY.mhtml
+-rwxrwxrwx 1 c c 32M Oct 20  2020 059 - 【Ｎ２文法】～に相違ない - 2k-Y5QYwQxY.mp4
+-rwxrwxrwx 1 c c 20K Mar  7 12:37 060 - 【Ｎ２文法】～に際して - qJNyZNXW2yc.mhtml
+-rwxrwxrwx 1 c c 59M Oct 27  2020 060 - 【Ｎ２文法】～に際して - qJNyZNXW2yc.mp4
+-rwxrwxrwx 1 c c 21K Mar  7 12:37 061 - 【Ｎ２文法】～に先立って - OStTHd-Z9Is.mhtml
+-rwxrwxrwx 1 c c 43M Nov  3  2020 061 - 【Ｎ２文法】～に先立って - OStTHd-Z9Is.mp4
+-rwxrwxrwx 1 c c 20K Mar  7 12:37 062 - 【Ｎ２文法】～にしたら・～にすれば ⧸ ～にしても・にしたって（立場） - HjVR0zXxQPM.mhtml
+-rwxrwxrwx 1 c c 48M Nov 10  2020 062 - 【Ｎ２文法】～にしたら・～にすれば ⧸ ～にしても・にしたって（立場） - HjVR0zXxQPM.mp4
+-rwxrwxrwx 1 c c 19K Mar  7 12:37 063 - 【Ｎ２文法】～にしては - wOiqC27LiH4.mhtml
+-rwxrwxrwx 1 c c 84M Nov 17  2020 063 - 【Ｎ２文法】～にしては - wOiqC27LiH4.mp4
+-rwxrwxrwx 1 c c 19K Mar  7 12:37 064 - 【Ｎ２文法】～にしても・～にしたって・～にしろ・～にせよ - xBgYY2T4NL0.mhtml
+-rwxrwxrwx 1 c c 79M Dec  1  2020 064 - 【Ｎ２文法】～にしても・～にしたって・～にしろ・～にせよ - xBgYY2T4NL0.mp4
+-rwxrwxrwx 1 c c 18K Mar  7 12:37 065 - 【Ｎ２文法】～にすぎない - _XAb3lMwq70.mhtml
+-rwxrwxrwx 1 c c 25M Dec  1  2020 065 - 【Ｎ２文法】～にすぎない - _XAb3lMwq70.mp4
+-rwxrwxrwx 1 c c 19K Mar  7 12:37 066 - 【Ｎ２文法】～に沿って - ELS9zp0m7_w.mhtml
+-rwxrwxrwx 1 c c 29M Dec  8  2020 066 - 【Ｎ２文法】～に沿って - ELS9zp0m7_w.mp4
+-rwxrwxrwx 1 c c 21K Mar  7 12:37 067 - 【Ｎ２文法】～につけて - YflLkrjOtJ0.mhtml
+-rwxrwxrwx 1 c c 59M Dec 15  2020 067 - 【Ｎ２文法】～につけて - YflLkrjOtJ0.mp4
+-rwxrwxrwx 1 c c 21K Mar  7 12:37 068 - 【Ｎ２文法】～にともなって - YK8b4gwS_qQ.mhtml
+-rwxrwxrwx 1 c c 37M Dec 22  2020 068 - 【Ｎ２文法】～にともなって - YK8b4gwS_qQ.mp4
+-rwxrwxrwx 1 c c 20K Mar  7 12:37 069 - 【Ｎ２文法】～にほかならない - qOWCVa_tcl4.mhtml
+-rwxrwxrwx 1 c c 23M Jan 11  2021 069 - 【Ｎ２文法】～にほかならない - qOWCVa_tcl4.mp4
+-rwxrwxrwx 1 c c 21K Mar  7 12:37 070 - 【Ｎ２文法】～に基づいて - ZZvwL9ovRqk.mhtml
+-rwxrwxrwx 1 c c 50M Jan 19  2021 070 - 【Ｎ２文法】～に基づいて - ZZvwL9ovRqk.mp4
+-rwxrwxrwx 1 c c 20K Mar  7 12:37 071 - 【Ｎ２文法】～はさておき - zlrlVzNI0mM.mhtml
+-rwxrwxrwx 1 c c 35M Jan 26  2021 071 - 【Ｎ２文法】～はさておき - zlrlVzNI0mM.mp4
+-rwxrwxrwx 1 c c 20K Mar  7 12:37 072 - 【Ｎ２文法】～はもとより - m3Re3SqFfdw.mhtml
+-rwxrwxrwx 1 c c 40M Feb  2  2021 072 - 【Ｎ２文法】～はもとより - m3Re3SqFfdw.mp4
+-rwxrwxrwx 1 c c 19K Mar  7 12:37 073 - 【Ｎ２文法】～ぬきで・～ぬきに・～をぬきにして・～はぬきにして - doE0RL2hpmA.mhtml
+-rwxrwxrwx 1 c c 41M Feb  9  2021 073 - 【Ｎ２文法】～ぬきで・～ぬきに・～をぬきにして・～はぬきにして - doE0RL2hpmA.mp4
+-rwxrwxrwx 1 c c 19K Mar  7 12:37 074 - 【Ｎ２文法】～末に - -QjpUD9K6nY.mhtml
+-rwxrwxrwx 1 c c 51M Feb 22  2021 074 - 【Ｎ２文法】～末に - -QjpUD9K6nY.mp4
+-rwxrwxrwx 1 c c 19K Mar  7 12:37 075 - 【Ｎ２文法】～のみならず - _Omsq9s7h7s.mhtml
+-rwxrwxrwx 1 c c 33M Mar  1  2021 075 - 【Ｎ２文法】～のみならず - _Omsq9s7h7s.mp4
+-rwxrwxrwx 1 c c 19K Mar  7 12:37 076 - 【Ｎ２文法】～ばかりか - fNMTK6JX1VE.mhtml
+-rwxrwxrwx 1 c c 25M Mar 16  2021 076 - 【Ｎ２文法】～ばかりか - fNMTK6JX1VE.mp4
+-rwxrwxrwx 1 c c 18K Mar  7 12:37 077 - 【Ｎ２文法】～ばかりに - 6rrKLjF47e8.mhtml
+-rwxrwxrwx 1 c c 53M Mar 23  2021 077 - 【Ｎ２文法】～ばかりに - 6rrKLjF47e8.mp4
+-rwxrwxrwx 1 c c 19K Mar  7 12:37 078 - 【Ｎ２文法】～くらいなら - OdP9Pd5wW54.mhtml
+-rwxrwxrwx 1 c c 42M Mar 30  2021 078 - 【Ｎ２文法】～くらいなら - OdP9Pd5wW54.mp4
+-rwxrwxrwx 1 c c 18K Mar  7 12:37 079 - 【Ｎ２文法】～まい - rxuqNdJk4N4.mhtml
+-rwxrwxrwx 1 c c 50M Apr  6  2021 079 - 【Ｎ２文法】～まい - rxuqNdJk4N4.mp4
+-rwxrwxrwx 1 c c 19K Mar  7 12:37 080 - 【Ｎ２文法】～うか～まいか - NpU7LaKARZY.mhtml
+-rwxrwxrwx 1 c c 53M Sep  1  2021 080 - 【Ｎ２文法】～うか～まいか - NpU7LaKARZY.mp4
+-rwxrwxrwx 1 c c 18K Mar  7 12:37 081 - 【Ｎ２文法】～もかまわず - _U87u1OhmKM.mhtml
+-rwxrwxrwx 1 c c 41M Sep  6  2021 081 - 【Ｎ２文法】～もかまわず - _U87u1OhmKM.mp4
+-rwxrwxrwx 1 c c 20K Mar  7 12:37 082 - 【Ｎ２文法】～ものがある - dD2vDGxWcEM.mhtml
+-rwxrwxrwx 1 c c 26M Sep  4  2021 082 - 【Ｎ２文法】～ものがある - dD2vDGxWcEM.mp4
+-rwxrwxrwx 1 c c 19K Mar  7 12:37 083 - 【Ｎ２文法】～ものだ・～ものではない（常識・本質） - qFA_eswZgGg.mhtml
+-rwxrwxrwx 1 c c 27M Sep  7  2021 083 - 【Ｎ２文法】～ものだ・～ものではない（常識・本質） - qFA_eswZgGg.mp4
+-rwxrwxrwx 1 c c 19K Mar  7 12:37 084 - 【Ｎ２文法】～ものだ（感慨・懐古） - dFDy7orbvJM.mhtml
+-rwxrwxrwx 1 c c 34M Sep  5  2021 084 - 【Ｎ２文法】～ものだ（感慨・懐古） - dFDy7orbvJM.mp4
+-rwxrwxrwx 1 c c 19K Mar  7 12:37 085 - 【Ｎ２文法】～ものなら - gjd5rETgrbE.mhtml
+-rwxrwxrwx 1 c c 53M Sep  6  2021 085 - 【Ｎ２文法】～ものなら - gjd5rETgrbE.mp4
+-rwxrwxrwx 1 c c 19K Mar  7 12:37 086 - 【Ｎ２文法】～ないものか - 5e8WVUcifSY.mhtml
+-rwxrwxrwx 1 c c 44M Jun 16  2021 086 - 【Ｎ２文法】～ないものか - 5e8WVUcifSY.mp4
+-rwxrwxrwx 1 c c 18K Mar  7 12:37 087 - 【Ｎ２文法】～うものなら - SVqXXbe9ldU.mhtml
+-rwxrwxrwx 1 c c 39M Sep  6  2021 087 - 【Ｎ２文法】～うものなら - SVqXXbe9ldU.mp4
+-rwxrwxrwx 1 c c 18K Mar  7 12:37 088 - 【Ｎ２文法】～ものの - 2qENY0IetZE.mhtml
+-rwxrwxrwx 1 c c 64M Aug 28  2021 088 - 【Ｎ２文法】～ものの - 2qENY0IetZE.mp4
+-rwxrwxrwx 1 c c 20K Mar  7 12:38 089 - 【Ｎ２文法】～やら～やら - 5_zRc3zuvQA.mhtml
+-rwxrwxrwx 1 c c 53M Sep  6  2021 089 - 【Ｎ２文法】～やら～やら - 5_zRc3zuvQA.mp4
+-rwxrwxrwx 1 c c 19K Mar  7 12:38 090 - 【Ｎ２文法】～ようがない - klGGgx_eC2w.mhtml
+-rwxrwxrwx 1 c c 44M Aug  2  2021 090 - 【Ｎ２文法】～ようがない - klGGgx_eC2w.mp4
+-rwxrwxrwx 1 c c 19K Mar  7 12:38 091 - 【Ｎ２文法】～を契機にして・～を契機として - HzOOmJF3y0s.mhtml
+-rwxrwxrwx 1 c c 55M Aug 12  2021 091 - 【Ｎ２文法】～を契機にして・～を契機として - HzOOmJF3y0s.mp4
+-rwxrwxrwx 1 c c 19K Mar  7 12:38 092 - 【Ｎ２文法】～を問わず - XJvSj85oImE.mhtml
+-rwxrwxrwx 1 c c 62M Aug 26  2021 092 - 【Ｎ２文法】～を問わず - XJvSj85oImE.mp4
+-rwxrwxrwx 1 c c 20K Mar  7 12:38 093 - 【Ｎ２文法】～をはじめとして - GkECoGyscZQ.mhtml
+-rwxrwxrwx 1 c c 36M Sep  8  2021 093 - 【Ｎ２文法】～をはじめとして - GkECoGyscZQ.mp4
+-rwxrwxrwx 1 c c 19K Mar  7 12:38 094 - 【Ｎ２文法】～をめぐって - ZLRYC5TIoyU.mhtml
+-rwxrwxrwx 1 c c 51M Sep 19  2021 094 - 【Ｎ２文法】～をめぐって - ZLRYC5TIoyU.mp4
+-rwxrwxrwx 1 c c 19K Mar  7 12:38 095 - 【Ｎ２文法】～をもとにして - goK17HkefpY.mhtml
+-rwxrwxrwx 1 c c 68M Oct  4  2021 095 - 【Ｎ２文法】～をもとにして - goK17HkefpY.mp4
+-rwxrwxrwx 1 c c 20K Mar  7 12:38 096 - 【Ｎ２文法】～か～ないかのうちに - URZBrBxSuiY.mhtml
+-rwxrwxrwx 1 c c 58M Oct 14  2021 096 - 【Ｎ２文法】～か～ないかのうちに - URZBrBxSuiY.mp4
+-rwxrwxrwx 1 c c 20K Mar  7 12:38 097 - 【Ｎ２文法】～かと思うと・～かと思ったら - 9XOIAxGEvWU.mhtml
+-rwxrwxrwx 1 c c 48M Oct 27  2021 097 - 【Ｎ２文法】～かと思うと・～かと思ったら - 9XOIAxGEvWU.mp4
+-rwxrwxrwx 1 c c 19K Mar  7 12:38 098 - 【Ｎ２文法】～ぬく - S-7bNEjlk30.mhtml
+-rwxrwxrwx 1 c c 66M Nov  7  2021 098 - 【Ｎ２文法】～ぬく - S-7bNEjlk30.mp4
+-rwxrwxrwx 1 c c 19K Mar  7 12:38 099 - 【Ｎ２文法】～てみせる - ZjsfDwIu4G8.mhtml
+-rwxrwxrwx 1 c c 35M Nov 18  2021 099 - 【Ｎ２文法】～てみせる - ZjsfDwIu4G8.mp4
+-rwxrwxrwx 1 c c 20K Mar  7 12:38 100 - 【Ｎ２文法】～ようなら・～ようだったら・～ようだと・～ようであれば - kCwX19aDtu0.mhtml
+-rwxrwxrwx 1 c c 48M Dec  1  2021 100 - 【Ｎ２文法】～ようなら・～ようだったら・～ようだと・～ようであれば - kCwX19aDtu0.mp4
+-rwxrwxrwx 1 c c 20K Mar  7 12:38 101 - 【Ｎ２文法】～ようでは - hRAEjj1OYjw.mhtml
+-rwxrwxrwx 1 c c 23M Dec 16  2021 101 - 【Ｎ２文法】～ようでは - hRAEjj1OYjw.mp4
+-rwxrwxrwx 1 c c 20K Mar  7 12:38 102 - 【Ｎ２文法】～ないで済む・～なくて済む・～ずに済む - J50c20o45jQ.mhtml
+-rwxrwxrwx 1 c c 41M Dec 29  2021 102 - 【Ｎ２文法】～ないで済む・～なくて済む・～ずに済む - J50c20o45jQ.mp4
+-rwxrwxrwx 1 c c 19K Mar  7 12:38 103 - 【Ｎ２文法】～こと（指示） - Zv844blKdYo.mhtml
+-rwxrwxrwx 1 c c 30M Jan 10  2022 103 - 【Ｎ２文法】～こと（指示） - Zv844blKdYo.mp4
+-rwxrwxrwx 1 c c 18K Mar  7 12:38 104 - 【Ｎ２文法】～ことか - LuGqFqsy5Wo.mhtml
+-rwxrwxrwx 1 c c 32M Jan 20  2022 104 - 【Ｎ２文法】～ことか - LuGqFqsy5Wo.mp4
+-rwxrwxrwx 1 c c 20K Mar  7 12:38 105 - 【Ｎ２文法】～ておいて・～ておきながら - DWJrYqAm3Co.mhtml
+-rwxrwxrwx 1 c c 39M Feb 10  2022 105 - 【Ｎ２文法】～ておいて・～ておきながら - DWJrYqAm3Co.mp4
+-rwxrwxrwx 1 c c 19K Mar  7 12:38 106 - 【Ｎ２文法】～てはいられない - iYZ0imtji-4.mhtml
+-rwxrwxrwx 1 c c 38M Feb 24  2022 106 - 【Ｎ２文法】～てはいられない - iYZ0imtji-4.mp4
+-rwxrwxrwx 1 c c 19K Mar  7 12:38 107 - 【Ｎ２文法】～につき - VGQ6KuiZKKA.mhtml
+-rwxrwxrwx 1 c c 45M Mar 10  2022 107 - 【Ｎ２文法】～につき - VGQ6KuiZKKA.mp4
+-rwxrwxrwx 1 c c 19K Mar  7 12:38 108 - 【Ｎ２文法】～にて - H2hqQHoFmdI.mhtml
+-rwxrwxrwx 1 c c 31M Mar 27  2022 108 - 【Ｎ２文法】～にて - H2hqQHoFmdI.mp4
+-rwxrwxrwx 1 c c 18K Mar  7 12:38 109 - 【Ｎ２文法】～たて - uIAYPsMaJN8.mhtml
+-rwxrwxrwx 1 c c 27M Apr 11  2022 109 - 【Ｎ２文法】～たて - uIAYPsMaJN8.mp4
+-rwxrwxrwx 1 c c 19K Mar  7 12:38 110 - 【Ｎ２文法】～というか - lnAc-NAZwc8.mhtml
+-rwxrwxrwx 1 c c 68M Apr 28  2022 110 - 【Ｎ２文法】～というか - lnAc-NAZwc8.mp4
+-rwxrwxrwx 1 c c 19K Mar  7 12:38 111 - 【Ｎ２文法】～ところだった - RvLZp9fVulU.mhtml
+-rwxrwxrwx 1 c c 38M May 22  2022 111 - 【Ｎ２文法】～ところだった - RvLZp9fVulU.mp4
+-rwxrwxrwx 1 c c 20K Mar  7 12:38 112 - 【Ｎ２文法】～たる・～なる・～き・～し（古い形容詞表現） - OJZ7kCEinFI.mhtml
+-rwxrwxrwx 1 c c 73M Jun  8  2022 112 - 【Ｎ２文法】～たる・～なる・～き・～し（古い形容詞表現） - OJZ7kCEinFI.mp4
+-rwxrwxrwx 1 c c 20K Mar  7 12:38 113 - 【Ｎ２文法】～折 - 2i-F3Ed1IRM.mhtml
+-rwxrwxrwx 1 c c 55M Jun 27  2022 113 - 【Ｎ２文法】～折 - 2i-F3Ed1IRM.mp4
+-rwxrwxrwx 1 c c 21K Mar  7 12:38 114 - 【Ｎ２文法】～ほうがまし・～よりまし・～だけまし - l-HQ5pVianc.mhtml
+-rwxrwxrwx 1 c c 81M Jul 27  2022 114 - 【Ｎ２文法】～ほうがまし・～よりまし・～だけまし - l-HQ5pVianc.mp4
+-rwxrwxrwx 1 c c 21K Mar  7 12:38 115 - 【Ｎ２文法】～を受けて - d56IX0I4gAU.mhtml
+-rwxrwxrwx 1 c c 20K Mar  7 12:38 116 - 【Ｎ２文法】～ごとに・～おきに - m5KVJ0yFF_o.mhtml
+-rwxrwxrwx 1 c c 20K Mar  7 12:38 117 - 【Ｎ２文法】～のではないだろうか - aS7Gfn6enEI.mhtml
+-rwxrwxrwx 1 c c 18K Mar  7 12:38 118 - 【Ｎ２文法】～って（主題） - l0BwAF-nRiQ.mhtml
+-rwxrwxrwx 1 c c 19K Mar  7 12:39 119 - 【Ｎ２文法】～って（焦燥・当惑・聞き返し） - 3lkoUGnLXE4.mhtml
+-rwxrwxrwx 1 c c 19K Mar  7 12:39 120 - 【Ｎ２文法】～はしない・～てはいない・～くはない - sQC29Izh51c.mhtml
+
+./N3:
+total 5.0G
+-rwxrwxrwx 1 c c  18K Mar  7 12:39 001 - 【Ｎ３文法】～一方だ - eGxvduVsfJo.mhtml
+-rwxrwxrwx 1 c c  34M Sep  3  2019 001 - 【Ｎ３文法】～一方だ - eGxvduVsfJo.mp4
+-rwxrwxrwx 1 c c  17K Mar  7 12:39 002 - 【Ｎ３文法】～うえに - a9ZikIHE2l4.mhtml
+-rwxrwxrwx 1 c c  30M Sep 11  2019 002 - 【Ｎ３文法】～うえに - a9ZikIHE2l4.mp4
+-rwxrwxrwx 1 c c  17K Mar  7 12:39 003 - 【Ｎ３文法】～うちに - zRDINPcshiM.mhtml
+-rwxrwxrwx 1 c c  28M Sep 17  2019 003 - 【Ｎ３文法】～うちに - zRDINPcshiM.mp4
+-rwxrwxrwx 1 c c  17K Mar  7 12:39 004 - 【Ｎ３文法】～おかげ - zNwGvXmd378.mhtml
+-rwxrwxrwx 1 c c  35M Sep 20  2019 004 - 【Ｎ３文法】～おかげ - zNwGvXmd378.mp4
+-rwxrwxrwx 1 c c  18K Mar  7 12:39 005 - 【Ｎ３文法】～おそれがある - 8qo09quNcQY.mhtml
+-rwxrwxrwx 1 c c  22M Oct  2  2019 005 - 【Ｎ３文法】～おそれがある - 8qo09quNcQY.mp4
+-rwxrwxrwx 1 c c  17K Mar  7 12:39 006 - 【Ｎ３文法】～かける・～かけ - WmqsfDDLlW8.mhtml
+-rwxrwxrwx 1 c c  29M Oct  9  2019 006 - 【Ｎ３文法】～かける・～かけ - WmqsfDDLlW8.mp4
+-rwxrwxrwx 1 c c  17K Mar  7 12:39 007 - 【Ｎ３文法】～がち - BFV1_8dMlSA.mhtml
+-rwxrwxrwx 1 c c  24M Oct 16  2019 007 - 【Ｎ３文法】～がち - BFV1_8dMlSA.mp4
+-rwxrwxrwx 1 c c  19K Mar  7 12:39 008 - 【Ｎ３文法】～から～にかけて - aGq2IHxhxSM.mhtml
+-rwxrwxrwx 1 c c  47M Oct 23  2019 008 - 【Ｎ３文法】～から～にかけて - aGq2IHxhxSM.mp4
+-rwxrwxrwx 1 c c  18K Mar  7 12:39 009 - 【Ｎ３文法】～からには - o4VfI3oJ9jI.mhtml
+-rwxrwxrwx 1 c c  27M Oct 29  2019 009 - 【Ｎ３文法】～からには - o4VfI3oJ9jI.mp4
+-rwxrwxrwx 1 c c  18K Mar  7 12:39 010 - 【Ｎ３文法】～から見て・～から見ると・～から見れば・～から見たら - ZffwCVgPqHE.mhtml
+-rwxrwxrwx 1 c c  36M Nov  6  2019 010 - 【Ｎ３文法】～から見て・～から見ると・～から見れば・～から見たら - ZffwCVgPqHE.mp4
+-rwxrwxrwx 1 c c  18K Mar  7 12:39 011 - 【Ｎ３文法】～かわりに - YBObzpUsgiw.mhtml
+-rwxrwxrwx 1 c c  40M Nov 13  2019 011 - 【Ｎ３文法】～かわりに - YBObzpUsgiw.mp4
+-rwxrwxrwx 1 c c  18K Mar  7 12:39 012 - 【Ｎ３文法】～きる・～きれる - o0s4Wy88bVg.mhtml
+-rwxrwxrwx 1 c c  35M Nov 19  2019 012 - 【Ｎ３文法】～きる・～きれる - o0s4Wy88bVg.mp4
+-rwxrwxrwx 1 c c  18K Mar  7 12:39 013 - 【Ｎ３文法】～くらい・～くらいだ - 4fclthCjNsI.mhtml
+-rwxrwxrwx 1 c c  48M Nov 24  2019 013 - 【Ｎ３文法】～くらい・～くらいだ - 4fclthCjNsI.mp4
+-rwxrwxrwx 1 c c  17K Mar  7 12:39 014 - 【Ｎ３文法】～こそ - JHzM1doYlkQ.mhtml
+-rwxrwxrwx 1 c c  27M Dec  2  2019 014 - 【Ｎ３文法】～こそ - JHzM1doYlkQ.mp4
+-rwxrwxrwx 1 c c  20K Mar  7 12:39 015 - 【Ｎ３文法】～ことから・～ところから - Z3ojJlz0yRw.mhtml
+-rwxrwxrwx 1 c c  39M Dec 11  2019 015 - 【Ｎ３文法】～ことから・～ところから - Z3ojJlz0yRw.mp4
+-rwxrwxrwx 1 c c  18K Mar  7 12:39 016 - 【Ｎ３文法】～のことだから・～のことだ - VD7dMBQwc5M.mhtml
+-rwxrwxrwx 1 c c  23M Dec 18  2019 016 - 【Ｎ３文法】～のことだから・～のことだ - VD7dMBQwc5M.mp4
+-rwxrwxrwx 1 c c  18K Mar  7 12:39 017 - 【Ｎ３文法】～ことはない - a3HFygHO3XU.mhtml
+-rwxrwxrwx 1 c c  37M Dec 28  2019 017 - 【Ｎ３文法】～ことはない - a3HFygHO3XU.mp4
+-rwxrwxrwx 1 c c  18K Mar  7 12:39 018 - 【Ｎ３文法】～最中に - kJyfoMwPGgc.mhtml
+-rwxrwxrwx 1 c c  30M Dec 30  2019 018 - 【Ｎ３文法】～最中に - kJyfoMwPGgc.mp4
+-rwxrwxrwx 1 c c  19K Mar  7 12:39 019 - 【Ｎ３文法】～際に・～際は - K_ZT2Nsrbys.mhtml
+-rwxrwxrwx 1 c c  83M Jan  7  2020 019 - 【Ｎ３文法】～際に・～際は - K_ZT2Nsrbys.mp4
+-rwxrwxrwx 1 c c  19K Mar  7 12:39 020 - 【Ｎ３文法】～ことになっている - 2UJIC9WSPjQ.mhtml
+-rwxrwxrwx 1 c c  30M Jan 14  2020 020 - 【Ｎ３文法】～ことになっている - 2UJIC9WSPjQ.mp4
+-rwxrwxrwx 1 c c  17K Mar  7 12:39 021 - 【Ｎ３文法】～ことにしている - D7X3CChxptY.mhtml
+-rwxrwxrwx 1 c c  38M Jan 22  2020 021 - 【Ｎ３文法】～ことにしている - D7X3CChxptY.mp4
+-rwxrwxrwx 1 c c  19K Mar  7 12:39 022 - 【Ｎ３文法】～ことになる ② - m3udfvJsYWY.mhtml
+-rwxrwxrwx 1 c c  36M Jan 29  2020 022 - 【Ｎ３文法】～ことになる ② - m3udfvJsYWY.mp4
+-rwxrwxrwx 1 c c  18K Mar  7 12:39 023 - 【Ｎ３文法】～さえ - Wh8IhNdgk5o.mhtml
+-rwxrwxrwx 1 c c  61M Feb  5  2020 023 - 【Ｎ３文法】～さえ - Wh8IhNdgk5o.mp4
+-rwxrwxrwx 1 c c  19K Mar  7 12:39 024 - 【Ｎ３文法】～さえ～ば - _-HDuUcHm3k.mhtml
+-rwxrwxrwx 1 c c  48M Feb 12  2020 024 - 【Ｎ３文法】～さえ～ば - _-HDuUcHm3k.mp4
+-rwxrwxrwx 1 c c  18K Mar  7 12:39 025 - 【Ｎ３文法】～しかない - vTvTG8y9lH4.mhtml
+-rwxrwxrwx 1 c c  27M Feb 18  2020 025 - 【Ｎ３文法】～しかない - vTvTG8y9lH4.mp4
+-rwxrwxrwx 1 c c  18K Mar  7 12:40 026 - 【Ｎ３文法】～せい - eAkY9mYXq2E.mhtml
+-rwxrwxrwx 1 c c  48M Feb 25  2020 026 - 【Ｎ３文法】～せい - eAkY9mYXq2E.mp4
+-rwxrwxrwx 1 c c  19K Mar  7 12:40 027 - 【Ｎ３文法】～だけ・～だけの - VSho5rvFGWw.mhtml
+-rwxrwxrwx 1 c c  46M Jan  5  2021 027 - 【Ｎ３文法】～だけ・～だけの - VSho5rvFGWw.mp4
+-rwxrwxrwx 1 c c  19K Mar  7 12:40 028 - 【Ｎ３文法】～たところ - Lr3D1K1ewzA.mhtml
+-rwxrwxrwx 1 c c  42M Dec  6  2020 028 - 【Ｎ３文法】～たところ - Lr3D1K1ewzA.mp4
+-rwxrwxrwx 1 c c  18K Mar  7 12:40 029 - 【Ｎ３文法】～たとたん - 4xMjB1qda54.mhtml
+-rwxrwxrwx 1 c c  63M Nov 24  2020 029 - 【Ｎ３文法】～たとたん - 4xMjB1qda54.mp4
+-rwxrwxrwx 1 c c  19K Mar  7 12:40 030 - 【Ｎ３文法】～たびに - T36BcdYpTEU.mhtml
+-rwxrwxrwx 1 c c  22M Mar 23  2020 030 - 【Ｎ３文法】～たびに - T36BcdYpTEU.mp4
+-rwxrwxrwx 1 c c  19K Mar  7 12:40 031 - 【Ｎ３文法】～だらけ - XA_CEir1-3s.mhtml
+-rwxrwxrwx 1 c c  32M Mar 31  2020 031 - 【Ｎ３文法】～だらけ - XA_CEir1-3s.mp4
+-rwxrwxrwx 1 c c  19K Mar  7 12:40 032 - 【Ｎ３文法】～ついでに - smV9kXG8T8o.mhtml
+-rwxrwxrwx 1 c c  40M Apr  7  2020 032 - 【Ｎ３文法】～ついでに - smV9kXG8T8o.mp4
+-rwxrwxrwx 1 c c  20K Mar  7 12:40 033 - 【Ｎ３文法】～っけ - 1cKMQnOY1Gw.mhtml
+-rwxrwxrwx 1 c c  58M Apr 14  2020 033 - 【Ｎ３文法】～っけ - 1cKMQnOY1Gw.mp4
+-rwxrwxrwx 1 c c  20K Mar  7 12:40 034 - 【Ｎ３文法】～っぽい - q9hzJsLMqbk.mhtml
+-rwxrwxrwx 1 c c  56M Apr 21  2020 034 - 【Ｎ３文法】～っぽい - q9hzJsLMqbk.mp4
+-rwxrwxrwx 1 c c  19K Mar  7 12:40 035 - 【Ｎ３文法】～てからでないと・～てからでなければ - BNr2aS7Xra0.mhtml
+-rwxrwxrwx 1 c c  31M Apr 28  2020 035 - 【Ｎ３文法】～てからでないと・～てからでなければ - BNr2aS7Xra0.mp4
+-rwxrwxrwx 1 c c  19K Mar  7 12:40 036 - 【Ｎ３文法】～てしょうがない・～てしかたがない - cqkc0yJGQx4.mhtml
+-rwxrwxrwx 1 c c  72M May  5  2020 036 - 【Ｎ３文法】～てしょうがない・～てしかたがない - cqkc0yJGQx4.mp4
+-rwxrwxrwx 1 c c  19K Mar  7 12:40 037 - 【Ｎ３文法】～てたまらない - IckBfBZ5KmM.mhtml
+-rwxrwxrwx 1 c c  93M May 13  2020 037 - 【Ｎ３文法】～てたまらない - IckBfBZ5KmM.mp4
+-rwxrwxrwx 1 c c  20K Mar  7 12:40 038 - 【Ｎ３文法】～ということだ・～とのことだ - O7b7SlKA8YM.mhtml
+-rwxrwxrwx 1 c c  73M May 20  2020 038 - 【Ｎ３文法】～ということだ・～とのことだ - O7b7SlKA8YM.mp4
+-rwxrwxrwx 1 c c  19K Mar  7 12:40 039 - 【Ｎ３文法】～ということだ ② - bB_xNOl6c9U.mhtml
+-rwxrwxrwx 1 c c  48M May 27  2020 039 - 【Ｎ３文法】～ということだ ② - bB_xNOl6c9U.mp4
+-rwxrwxrwx 1 c c  20K Mar  7 12:40 040 - 【Ｎ３文法】～というより - pkq_IlcD5TA.mhtml
+-rwxrwxrwx 1 c c  43M Jun  3  2020 040 - 【Ｎ３文法】～というより - pkq_IlcD5TA.mp4
+-rwxrwxrwx 1 c c  19K Mar  7 12:40 041 - 【Ｎ３文法】～なくちゃ・～なきゃ・～ないと - aU8MLusen0g.mhtml
+-rwxrwxrwx 1 c c  39M Jun 10  2020 041 - 【Ｎ３文法】～なくちゃ・～なきゃ・～ないと - aU8MLusen0g.mp4
+-rwxrwxrwx 1 c c  18K Mar  7 12:40 042 - 【Ｎ３文法】指示詞 ③ - ueBNkMb14Fc.mhtml
+-rwxrwxrwx 1 c c  64M Jun 16  2020 042 - 【Ｎ３文法】指示詞 ③ - ueBNkMb14Fc.mp4
+-rwxrwxrwx 1 c c  18K Mar  7 12:40 043 - 【Ｎ３文法】～といっても - sqeZl12X6cs.mhtml
+-rwxrwxrwx 1 c c  26M Jun 23  2020 043 - 【Ｎ３文法】～といっても - sqeZl12X6cs.mp4
+-rwxrwxrwx 1 c c  20K Mar  7 12:40 044 - 【Ｎ３文法】～とおりに - hDmL4cSlRiE.mhtml
+-rwxrwxrwx 1 c c  49M Jul  1  2020 044 - 【Ｎ３文法】～とおりに - hDmL4cSlRiE.mp4
+-rwxrwxrwx 1 c c  20K Mar  7 12:40 045 - 【Ｎ３文法】～ところへ・～ところに・～ところで・～ところを - DfbwUOXyNAc.mhtml
+-rwxrwxrwx 1 c c  76M Jul  8  2020 045 - 【Ｎ３文法】～ところへ・～ところに・～ところで・～ところを - DfbwUOXyNAc.mp4
+-rwxrwxrwx 1 c c  19K Mar  7 12:40 046 - 【Ｎ３文法】～としたら・～とすれば・～とすると・～としても - 3CvjuUYsW98.mhtml
+-rwxrwxrwx 1 c c  58M Jul 15  2020 046 - 【Ｎ３文法】～としたら・～とすれば・～とすると・～としても - 3CvjuUYsW98.mp4
+-rwxrwxrwx 1 c c  19K Mar  7 12:40 047 - 【Ｎ３文法】～として - cD6f8YKnUnQ.mhtml
+-rwxrwxrwx 1 c c  45M Mar 29  2022 047 - 【Ｎ３文法】～として - cD6f8YKnUnQ.mp4
+-rwxrwxrwx 1 c c  20K Mar  7 12:40 048 - 【Ｎ３文法】～など・～なんか・～なんて - bq38A3YlCJg.mhtml
+-rwxrwxrwx 1 c c  87M Jul 29  2020 048 - 【Ｎ３文法】～など・～なんか・～なんて - bq38A3YlCJg.mp4
+-rwxrwxrwx 1 c c  21K Mar  7 12:40 049 - 【Ｎ３文法】～において・～における - H8yE5PpHEA8.mhtml
+-rwxrwxrwx 1 c c  46M Aug  5  2020 049 - 【Ｎ３文法】～において・～における - H8yE5PpHEA8.mp4
+-rwxrwxrwx 1 c c  18K Mar  7 12:40 050 - 【Ｎ３文法】～にかけては - hWZGJGLbwEE.mhtml
+-rwxrwxrwx 1 c c  35M Aug 11  2020 050 - 【Ｎ３文法】～にかけては - hWZGJGLbwEE.mp4
+-rwxrwxrwx 1 c c  18K Mar  7 12:40 051 - 【Ｎ３文法】～に代わって - hMubvUMGjv8.mhtml
+-rwxrwxrwx 1 c c  46M Aug 19  2020 051 - 【Ｎ３文法】～に代わって - hMubvUMGjv8.mp4
+-rwxrwxrwx 1 c c  19K Mar  7 12:41 052 - 【Ｎ３文法】～に決まっている - wLP_fREK1IU.mhtml
+-rwxrwxrwx 1 c c  38M Aug 26  2020 052 - 【Ｎ３文法】～に決まっている - wLP_fREK1IU.mp4
+-rwxrwxrwx 1 c c  18K Mar  7 12:41 053 - 【Ｎ３文法】～に比べて・～と比べて - AaC1txUsHkw.mhtml
+-rwxrwxrwx 1 c c  51M Sep  1  2020 053 - 【Ｎ３文法】～に比べて・～と比べて - AaC1txUsHkw.mp4
+-rwxrwxrwx 1 c c  19K Mar  7 12:41 054 - 【Ｎ３文法】～に加えて - XZ96IeUZkTI.mhtml
+-rwxrwxrwx 1 c c  34M Sep  8  2020 054 - 【Ｎ３文法】～に加えて - XZ96IeUZkTI.mp4
+-rwxrwxrwx 1 c c  19K Mar  7 12:41 055 - 【Ｎ３文法】～にしたがって - HhOaWKpx1U8.mhtml
+-rwxrwxrwx 1 c c  30M Sep 16  2020 055 - 【Ｎ３文法】～にしたがって - HhOaWKpx1U8.mp4
+-rwxrwxrwx 1 c c  19K Mar  7 12:41 056 - 【Ｎ３文法】～に対して - 0IWbG_0KSjs.mhtml
+-rwxrwxrwx 1 c c  34M Sep 23  2020 056 - 【Ｎ３文法】～に対して - 0IWbG_0KSjs.mp4
+-rwxrwxrwx 1 c c  18K Mar  7 12:41 057 - 【Ｎ３文法】～に違いない - d3L-xJCuRVc.mhtml
+-rwxrwxrwx 1 c c  54M Sep 29  2020 057 - 【Ｎ３文法】～に違いない - d3L-xJCuRVc.mp4
+-rwxrwxrwx 1 c c  20K Mar  7 12:41 058 - 【Ｎ３文法】～について - _pvv-aU--5Y.mhtml
+-rwxrwxrwx 1 c c  29M Oct 13  2020 058 - 【Ｎ３文法】～について - _pvv-aU--5Y.mp4
+-rwxrwxrwx 1 c c  20K Mar  7 12:41 059 - 【Ｎ３文法】～につれて - NWBRG-5umrc.mhtml
+-rwxrwxrwx 1 c c  39M Oct 20  2020 059 - 【Ｎ３文法】～につれて - NWBRG-5umrc.mp4
+-rwxrwxrwx 1 c c  19K Mar  7 12:41 060 - 【Ｎ３文法】～にとって - 0xYBhBw8Xzc.mhtml
+-rwxrwxrwx 1 c c  29M Oct 28  2020 060 - 【Ｎ３文法】～にとって - 0xYBhBw8Xzc.mp4
+-rwxrwxrwx 1 c c  18K Mar  7 12:41 061 - 【Ｎ３文法】～み・～め - 8MQuEXzHwSc.mhtml
+-rwxrwxrwx 1 c c  76M Nov  4  2020 061 - 【Ｎ３文法】～み・～め - 8MQuEXzHwSc.mp4
+-rwxrwxrwx 1 c c  20K Mar  7 12:41 062 - 【Ｎ３文法】～に対して（対比） - 5_rJ1okxLpg.mhtml
+-rwxrwxrwx 1 c c  45M Nov 10  2020 062 - 【Ｎ３文法】～に対して（対比） - 5_rJ1okxLpg.mp4
+-rwxrwxrwx 1 c c  21K Mar  7 12:41 063 - 【Ｎ３文法】～に応えて - lFC05D19jxs.mhtml
+-rwxrwxrwx 1 c c  35M Nov 18  2020 063 - 【Ｎ３文法】～に応えて - lFC05D19jxs.mp4
+-rwxrwxrwx 1 c c  20K Mar  7 12:41 064 - 【Ｎ３文法】～に反して - F9uarI-B0i8.mhtml
+-rwxrwxrwx 1 c c  43M Nov 25  2020 064 - 【Ｎ３文法】～に反して - F9uarI-B0i8.mp4
+-rwxrwxrwx 1 c c  19K Mar  7 12:41 065 - 【Ｎ３文法】～によって（方法手段・原因・創造主） - G_dza9I4ZcI.mhtml
+-rwxrwxrwx 1 c c  56M Dec  2  2020 065 - 【Ｎ３文法】～によって（方法手段・原因・創造主） - G_dza9I4ZcI.mp4
+-rwxrwxrwx 1 c c  19K Mar  7 12:41 066 - 【Ｎ３文法】～によって・～によっては（変化要因） - lmW8ZLH1gpg.mhtml
+-rwxrwxrwx 1 c c  44M Dec  9  2020 066 - 【Ｎ３文法】～によって・～によっては（変化要因） - lmW8ZLH1gpg.mp4
+-rwxrwxrwx 1 c c  18K Mar  7 12:41 067 - 【Ｎ３文法】～によると・～によれば - r5faAxFKnjw.mhtml
+-rwxrwxrwx 1 c c  37M Dec 16  2020 067 - 【Ｎ３文法】～によると・～によれば - r5faAxFKnjw.mp4
+-rwxrwxrwx 1 c c  19K Mar  7 12:41 068 - 【Ｎ３文法】～にわたって - yAumoMDB3Y8.mhtml
+-rwxrwxrwx 1 c c  29M Dec 23  2020 068 - 【Ｎ３文法】～にわたって - yAumoMDB3Y8.mp4
+-rwxrwxrwx 1 c c  20K Mar  7 12:41 069 - 【Ｎ３文法】～ば～ほど・～なら～ほど - DxgBlUlC3m0.mhtml
+-rwxrwxrwx 1 c c  71M Jan 13  2021 069 - 【Ｎ３文法】～ば～ほど・～なら～ほど - DxgBlUlC3m0.mp4
+-rwxrwxrwx 1 c c  19K Mar  7 12:41 070 - 【Ｎ３文法】～はともかく - L9bPZkBjNhk.mhtml
+-rwxrwxrwx 1 c c  33M Jan 20  2021 070 - 【Ｎ３文法】～はともかく - L9bPZkBjNhk.mp4
+-rwxrwxrwx 1 c c  20K Mar  7 12:41 071 - 【Ｎ３文法】～はもちろん - CPeQ49uGQUU.mhtml
+-rwxrwxrwx 1 c c  31M Jan 27  2021 071 - 【Ｎ３文法】～はもちろん - CPeQ49uGQUU.mp4
+-rwxrwxrwx 1 c c  18K Mar  7 12:41 072 - 【Ｎ３文法】～だけでなく・～ばかりでなく - OB_pY2buM7c.mhtml
+-rwxrwxrwx 1 c c  38M Feb  3  2021 072 - 【Ｎ３文法】～だけでなく・～ばかりでなく - OB_pY2buM7c.mp4
+-rwxrwxrwx 1 c c  20K Mar  7 12:41 073 - 【Ｎ３文法】～反面・～半面 - 1IiJiLgwrYs.mhtml
+-rwxrwxrwx 1 c c  54M Feb 17  2021 073 - 【Ｎ３文法】～反面・～半面 - 1IiJiLgwrYs.mp4
+-rwxrwxrwx 1 c c  19K Mar  7 12:41 074 - 【Ｎ３文法】～べきだ・～べきではない - vUO6aYil7bU.mhtml
+-rwxrwxrwx 1 c c  39M Feb 24  2021 074 - 【Ｎ３文法】～べきだ・～べきではない - vUO6aYil7bU.mp4
+-rwxrwxrwx 1 c c  19K Mar  7 12:41 075 - 【Ｎ３文法】～しかない・～よりほかはない・～ほかしかたがない - D3_uQq7FTl8.mhtml
+-rwxrwxrwx 1 c c  42M Mar  2  2021 075 - 【Ｎ３文法】～しかない・～よりほかはない・～ほかしかたがない - D3_uQq7FTl8.mp4
+-rwxrwxrwx 1 c c  19K Mar  7 12:41 076 - 【Ｎ３文法】～ほど・～ほどだ - P23VS3tkPhw.mhtml
+-rwxrwxrwx 1 c c  36M Mar 17  2021 076 - 【Ｎ３文法】～ほど・～ほどだ - P23VS3tkPhw.mp4
+-rwxrwxrwx 1 c c  18K Mar  7 12:41 077 - 【Ｎ３文法】～ほど…はない・～くらい…はない - 4duXe89L8ZQ.mhtml
+-rwxrwxrwx 1 c c  55M Mar 24  2021 077 - 【Ｎ３文法】～ほど…はない・～くらい…はない - 4duXe89L8ZQ.mp4
+-rwxrwxrwx 1 c c  19K Mar  7 12:42 078 - 【Ｎ３文法】～くらい（些細） - KweyB6rYqqw.mhtml
+-rwxrwxrwx 1 c c  25M Sep  4  2021 078 - 【Ｎ３文法】～くらい（些細） - KweyB6rYqqw.mp4
+-rwxrwxrwx 1 c c  19K Mar  7 12:42 079 - 【Ｎ３文法】～向きに・～向きだ・～向けに・～向けだ - 8Jl1tXDaGOo.mhtml
+-rwxrwxrwx 1 c c  41M Aug 28  2021 079 - 【Ｎ３文法】～向きに・～向きだ・～向けに・～向けだ - 8Jl1tXDaGOo.mp4
+-rwxrwxrwx 1 c c  18K Mar  7 12:42 080 - 【Ｎ３文法】～も…ば～も・～も…なら～も - 8OR_bSVFszw.mhtml
+-rwxrwxrwx 1 c c  44M Aug 28  2021 080 - 【Ｎ３文法】～も…ば～も・～も…なら～も - 8OR_bSVFszw.mp4
+-rwxrwxrwx 1 c c  18K Mar  7 12:42 081 - 【Ｎ３文法】～もので・～ものだから・～もの - kYs8iMN-ILk.mhtml
+-rwxrwxrwx 1 c c  30M Aug 31  2021 081 - 【Ｎ３文法】～もので・～ものだから・～もの - kYs8iMN-ILk.mp4
+-rwxrwxrwx 1 c c  19K Mar  7 12:42 082 - 【Ｎ３文法】～ものか - OjUWkULvYzI.mhtml
+-rwxrwxrwx 1 c c  36M Sep  3  2021 082 - 【Ｎ３文法】～ものか - OjUWkULvYzI.mp4
+-rwxrwxrwx 1 c c  18K Mar  7 12:42 083 - 【Ｎ３文法】～わけがない - c9luVdzwDpU.mhtml
+-rwxrwxrwx 1 c c  37M Sep  4  2021 083 - 【Ｎ３文法】～わけがない - c9luVdzwDpU.mp4
+-rwxrwxrwx 1 c c  19K Mar  7 12:42 084 - 【Ｎ３文法】～わけだ - r-X9nF5xtgs.mhtml
+-rwxrwxrwx 1 c c  53M Aug 30  2021 084 - 【Ｎ３文法】～わけだ - r-X9nF5xtgs.mp4
+-rwxrwxrwx 1 c c  19K Mar  7 12:42 085 - 【Ｎ３文法】～わけではない - gVoymo5X_gQ.mhtml
+-rwxrwxrwx 1 c c  41M Sep  5  2021 085 - 【Ｎ３文法】～わけではない - gVoymo5X_gQ.mp4
+-rwxrwxrwx 1 c c  18K Mar  7 12:42 086 - 【Ｎ３文法】～わけにはいかない - 9gnDhpPLKk8.mhtml
+-rwxrwxrwx 1 c c  53M Jun 17  2021 086 - 【Ｎ３文法】～わけにはいかない - 9gnDhpPLKk8.mp4
+-rwxrwxrwx 1 c c  18K Mar  7 12:42 087 - 【Ｎ３文法】～というのは・～とは・～って - jvHiwSk207c.mhtml
+-rwxrwxrwx 1 c c  50M Sep  1  2021 087 - 【Ｎ３文法】～というのは・～とは・～って - jvHiwSk207c.mp4
+-rwxrwxrwx 1 c c  18K Mar  7 12:42 088 - 【Ｎ３文法】～わりに - ayg65NvyNtw.mhtml
+-rwxrwxrwx 1 c c  49M Sep  4  2021 088 - 【Ｎ３文法】～わりに - ayg65NvyNtw.mp4
+-rwxrwxrwx 1 c c  19K Mar  7 12:42 089 - 【Ｎ３文法】～を…にして・～を…として - EagiBgKcDFI.mhtml
+-rwxrwxrwx 1 c c  41M Jul 23  2021 089 - 【Ｎ３文法】～を…にして・～を…として - EagiBgKcDFI.mp4
+-rwxrwxrwx 1 c c  19K Mar  7 12:42 090 - 【Ｎ３文法】～をきっかけにして・～をきっかけとして - bLvkte9dz7A.mhtml
+-rwxrwxrwx 1 c c  44M Aug  4  2021 090 - 【Ｎ３文法】～をきっかけにして・～をきっかけとして - bLvkte9dz7A.mp4
+-rwxrwxrwx 1 c c  19K Mar  7 12:42 091 - 【Ｎ３文法】～を込めて・～がこもった - m0pJHm6bLzQ.mhtml
+-rwxrwxrwx 1 c c  41M Aug 15  2021 091 - 【Ｎ３文法】～を込めて・～がこもった - m0pJHm6bLzQ.mp4
+-rwxrwxrwx 1 c c  20K Mar  7 12:42 092 - 【Ｎ３文法】～を中心にして・～を中心として - qbVQO_tP0Eo.mhtml
+-rwxrwxrwx 1 c c  46M Aug 29  2021 092 - 【Ｎ３文法】～を中心にして・～を中心として - qbVQO_tP0Eo.mp4
+-rwxrwxrwx 1 c c  19K Mar  7 12:42 093 - 【Ｎ３文法】～を通じて・～を通して - 2fxbotdyhRU.mhtml
+-rwxrwxrwx 1 c c  41M Sep  9  2021 093 - 【Ｎ３文法】～を通じて・～を通して - 2fxbotdyhRU.mp4
+-rwxrwxrwx 1 c c  20K Mar  7 12:42 094 - 【Ｎ３文法】～から言って・～から言うと・～から言えば・～から言ったら - XbSGNlvmuno.mhtml
+-rwxrwxrwx 1 c c 171M Sep 23  2021 094 - 【Ｎ３文法】～から言って・～から言うと・～から言えば・～から言ったら - XbSGNlvmuno.mp4
+-rwxrwxrwx 1 c c  18K Mar  7 12:42 095 - 【Ｎ３文法】～のもとで・～のもとに - svVRQ-8sRek.mhtml
+-rwxrwxrwx 1 c c  75M Oct  5  2021 095 - 【Ｎ３文法】～のもとで・～のもとに - svVRQ-8sRek.mp4
+-rwxrwxrwx 1 c c  19K Mar  7 12:42 096 - 【Ｎ３文法】～かのようだ - MF9Eh3i87PU.mhtml
+-rwxrwxrwx 1 c c  52M Oct 17  2021 096 - 【Ｎ３文法】～かのようだ - MF9Eh3i87PU.mp4
+-rwxrwxrwx 1 c c  19K Mar  7 12:42 097 - 【Ｎ３文法】～ばいいのに・～なければいいのに - _AUQp36qeUg.mhtml
+-rwxrwxrwx 1 c c  44M Oct 28  2021 097 - 【Ｎ３文法】～ばいいのに・～なければいいのに - _AUQp36qeUg.mp4
+-rwxrwxrwx 1 c c  20K Mar  7 12:42 098 - 【Ｎ３文法】～ばよかった - anzUWUSbXVM.mhtml
+-rwxrwxrwx 1 c c  49M Nov  8  2021 098 - 【Ｎ３文法】～ばよかった - anzUWUSbXVM.mp4
+-rwxrwxrwx 1 c c  19K Mar  7 12:42 099 - 【Ｎ３文法】～のみ - boX-itMr5gc.mhtml
+-rwxrwxrwx 1 c c  26M Nov 22  2021 099 - 【Ｎ３文法】～のみ - boX-itMr5gc.mp4
+-rwxrwxrwx 1 c c  20K Mar  7 12:42 100 - 【Ｎ３文法】～途中 - 7bpiJKNm1jo.mhtml
+-rwxrwxrwx 1 c c  53M Dec  1  2021 100 - 【Ｎ３文法】～途中 - 7bpiJKNm1jo.mp4
+-rwxrwxrwx 1 c c  20K Mar  7 12:42 101 - 【Ｎ３文法】～放題 - LDccAzriyFo.mhtml
+-rwxrwxrwx 1 c c  30M Dec 20  2021 101 - 【Ｎ３文法】～放題 - LDccAzriyFo.mp4
+-rwxrwxrwx 1 c c  18K Mar  7 12:42 102 - 【Ｎ３文法】～ふりをする - Akx9wWRHuQc.mhtml
+-rwxrwxrwx 1 c c  61M Dec 30  2021 102 - 【Ｎ３文法】～ふりをする - Akx9wWRHuQc.mp4
+-rwxrwxrwx 1 c c  19K Mar  7 12:42 103 - 【Ｎ３文法】～ず・～ずに・～ねば・～ぬ・～ん（特殊否定表現） - M3d6ZfPL0Oo.mhtml
+-rwxrwxrwx 1 c c  61M Jan 12  2022 103 - 【Ｎ３文法】～ず・～ずに・～ねば・～ぬ・～ん（特殊否定表現） - M3d6ZfPL0Oo.mp4
+-rwxrwxrwx 1 c c  19K Mar  7 12:42 104 - 【Ｎ３文法】～つもり（想定） - YUMxOWwK-8I.mhtml
+-rwxrwxrwx 1 c c  36M Jan 24  2022 104 - 【Ｎ３文法】～つもり（想定） - YUMxOWwK-8I.mp4
+-rwxrwxrwx 1 c c  19K Mar  7 12:42 105 - 【Ｎ３文法】～場合じゃない・～場合か - Kv5qFb7RMEA.mhtml
+-rwxrwxrwx 1 c c  30M Feb 14  2022 105 - 【Ｎ３文法】～場合じゃない・～場合か - Kv5qFb7RMEA.mp4
+-rwxrwxrwx 1 c c  19K Mar  7 12:42 106 - 【N３文法】～だけで - H2kzYuLFNQc.mhtml
+-rwxrwxrwx 1 c c  32M Feb 28  2022 106 - 【N３文法】～だけで - H2kzYuLFNQc.mp4
+-rwxrwxrwx 1 c c  19K Mar  7 12:42 107 - 【Ｎ３文法】～間・～間に - _s_9oYPgtoQ.mhtml
+-rwxrwxrwx 1 c c  73M Mar 14  2022 107 - 【Ｎ３文法】～間・～間に - _s_9oYPgtoQ.mp4
+-rwxrwxrwx 1 c c  18K Mar  7 12:42 108 - 【Ｎ３文法】～てはじめて - zKc6yr7blno.mhtml
+-rwxrwxrwx 1 c c  36M Mar 30  2022 108 - 【Ｎ３文法】～てはじめて - zKc6yr7blno.mp4
+-rwxrwxrwx 1 c c  19K Mar  7 12:42 109 - 【Ｎ３文法】～込む - 6NvfMD1c6q0.mhtml
+-rwxrwxrwx 1 c c  35M Apr 14  2022 109 - 【Ｎ３文法】～込む - 6NvfMD1c6q0.mp4
+-rwxrwxrwx 1 c c  19K Mar  7 12:43 110 - 【Ｎ３文法】～合う - WdL-4lWFwmg.mhtml
+-rwxrwxrwx 1 c c  24M May  2  2022 110 - 【Ｎ３文法】～合う - WdL-4lWFwmg.mp4
+-rwxrwxrwx 1 c c  19K Mar  7 12:43 111 - 【Ｎ３文法】～のこと - X_VpZIV7-9c.mhtml
+-rwxrwxrwx 1 c c  32M May 26  2022 111 - 【Ｎ３文法】～のこと - X_VpZIV7-9c.mp4
+-rwxrwxrwx 1 c c  19K Mar  7 12:43 112 - 【Ｎ３文法】～たことにする・～たことになる - h2OGDEQvUBU.mhtml
+-rwxrwxrwx 1 c c  64M Jun 13  2022 112 - 【Ｎ３文法】～たことにする・～たことになる - h2OGDEQvUBU.mp4
+-rwxrwxrwx 1 c c  19K Mar  7 12:43 113 - 【Ｎ３文法】中止表現 - tiKUN1FSTLI.mhtml
+-rwxrwxrwx 1 c c 102M Jun 30  2022 113 - 【Ｎ３文法】中止表現 - tiKUN1FSTLI.mp4
+-rwxrwxrwx 1 c c  17K Mar  7 12:43 114 - 【Ｎ３文法】倒置表現 - uI9_1qQxsrY.mhtml
+-rwxrwxrwx 1 c c  18K Mar  7 12:43 115 - 【Ｎ３文法】自発表現 - sZ7WDegvJI0.mhtml
+-rwxrwxrwx 1 c c  19K Mar  7 12:43 116 - 【Ｎ３文法】～じゃないか（驚き・同意要求） - jk21IKHOXoA.mhtml
+-rwxrwxrwx 1 c c  18K Mar  7 12:43 117 - 【Ｎ３文法】～って（提示内容・伝聞） - hnjwiVjUKrg.mhtml
+-rwxrwxrwx 1 c c  20K Mar  7 12:43 118 - 【Ｎ３文法】～たって・～だって（逆接・同様） - BrNhiaMRJr8.mhtml
+-rwxrwxrwx 1 c c  19K Mar  7 12:43 119 - 【Ｎ３文法】～ずつ - -odzLEIDa-A.mhtml
+-rwxrwxrwx 1 c c  19K Mar  7 12:43 120 - 【Ｎ３文法】～かしら - S2FGLCEGr1A.mhtml
+
+./N4:
+total 7.0G
+-rwxrwxrwx 1 c c  18K Mar  7 12:43 001 - 【Ｎ４文法】～までに - tq7OQec7Dnc.mhtml
+-rwxrwxrwx 1 c c  54M Sep  5  2019 001 - 【Ｎ４文法】～までに - tq7OQec7Dnc.mp4
+-rwxrwxrwx 1 c c  18K Mar  7 12:43 002 - 【Ｎ４文法】～つもり - T-t3Gv0JIyw.mhtml
+-rwxrwxrwx 1 c c  72M Sep 12  2019 002 - 【Ｎ４文法】～つもり - T-t3Gv0JIyw.mp4
+-rwxrwxrwx 1 c c  18K Mar  7 12:43 003 - 【Ｎ４文法】～かもしれません - tQWU3QnDFd8.mhtml
+-rwxrwxrwx 1 c c  24M Sep 17  2019 003 - 【Ｎ４文法】～かもしれません - tQWU3QnDFd8.mp4
+-rwxrwxrwx 1 c c  18K Mar  7 12:43 004 - 【Ｎ４文法】～は...より - TNHl4-bOss8.mhtml
+-rwxrwxrwx 1 c c  26M Sep 20  2019 004 - 【Ｎ４文法】～は...より - TNHl4-bOss8.mp4
+-rwxrwxrwx 1 c c  18K Mar  7 12:43 005 - 【Ｎ４文法】～やすい - XXrvlMDDWdM.mhtml
+-rwxrwxrwx 1 c c  26M Oct  3  2019 005 - 【Ｎ４文法】～やすい - XXrvlMDDWdM.mp4
+-rwxrwxrwx 1 c c  18K Mar  7 12:43 006 - 【Ｎ４文法】～にくい - O9bfoJMjsxE.mhtml
+-rwxrwxrwx 1 c c  34M Oct  9  2019 006 - 【Ｎ４文法】～にくい - O9bfoJMjsxE.mp4
+-rwxrwxrwx 1 c c  18K Mar  7 12:43 007 - 【Ｎ４文法】～方 - zaRioJxUsFg.mhtml
+-rwxrwxrwx 1 c c  36M Oct 17  2019 007 - 【Ｎ４文法】～方 - zaRioJxUsFg.mp4
+-rwxrwxrwx 1 c c  19K Mar  7 12:44 008 - 【Ｎ４文法】～ので - PPJBKQBdvr0.mhtml
+-rwxrwxrwx 1 c c  61M Oct 24  2019 008 - 【Ｎ４文法】～ので - PPJBKQBdvr0.mp4
+-rwxrwxrwx 1 c c  19K Mar  7 12:44 009 - 【Ｎ４文法】～のに - XSeDgcZEl60.mhtml
+-rwxrwxrwx 1 c c  50M Oct 30  2019 009 - 【Ｎ４文法】～のに - XSeDgcZEl60.mp4
+-rwxrwxrwx 1 c c  19K Mar  7 12:44 010 - 【Ｎ４文法】～ことができます - piR9EADQDw4.mhtml
+-rwxrwxrwx 1 c c  60M Nov  6  2019 010 - 【Ｎ４文法】～ことができます - piR9EADQDw4.mp4
+-rwxrwxrwx 1 c c  19K Mar  7 12:44 011 - 【Ｎ４文法】～たことがあります - ep3WyLddZvs.mhtml
+-rwxrwxrwx 1 c c  34M Nov 14  2019 011 - 【Ｎ４文法】～たことがあります - ep3WyLddZvs.mp4
+-rwxrwxrwx 1 c c  20K Mar  7 12:44 012 - 【Ｎ４文法】～ほうがいいです - Teca_tEu3IM.mhtml
+-rwxrwxrwx 1 c c  37M Nov 20  2019 012 - 【Ｎ４文法】～ほうがいいです - Teca_tEu3IM.mp4
+-rwxrwxrwx 1 c c  18K Mar  7 12:45 013 - 【Ｎ４文法】～すぎます・～すぎです - dtgB4k4i0ck.mhtml
+-rwxrwxrwx 1 c c  47M Nov 24  2019 013 - 【Ｎ４文法】～すぎます・～すぎです - dtgB4k4i0ck.mp4
+-rwxrwxrwx 1 c c  17K Mar  7 12:45 014 - 【Ｎ４文法】～なさい - VTB8eLpqgZo.mhtml
+-rwxrwxrwx 1 c c  36M Dec  2  2019 014 - 【Ｎ４文法】～なさい - VTB8eLpqgZo.mp4
+-rwxrwxrwx 1 c c  20K Mar  7 12:45 015 - 【Ｎ４文法】～てもいいです・～てもかまいません - z1N9GnpRgrU.mhtml
+-rwxrwxrwx 1 c c  56M Dec 12  2019 015 - 【Ｎ４文法】～てもいいです・～てもかまいません - z1N9GnpRgrU.mp4
+-rwxrwxrwx 1 c c  19K Mar  7 12:46 016 - 【Ｎ４文法】～てはいけません・～てはだめです - ylZKLkbuUhY.mhtml
+-rwxrwxrwx 1 c c  51M Dec 18  2019 016 - 【Ｎ４文法】～てはいけません・～てはだめです - ylZKLkbuUhY.mp4
+-rwxrwxrwx 1 c c  20K Mar  7 12:46 017 - 【Ｎ４文法】～なくてもいいです・～なくてもかまいません - ssh44b0NTeA.mhtml
+-rwxrwxrwx 1 c c  53M Dec 29  2019 017 - 【Ｎ４文法】～なくてもいいです・～なくてもかまいません - ssh44b0NTeA.mp4
+-rwxrwxrwx 1 c c  21K Mar  7 12:46 018 - 【Ｎ４文法】～なくてはいけません・～なければなりません・～ないとだめです - wRFhv5Ky_KA.mhtml
+-rwxrwxrwx 1 c c  58M Dec 30  2019 018 - 【Ｎ４文法】～なくてはいけません・～なければなりません・～ないとだめです - wRFhv5Ky_KA.mp4
+-rwxrwxrwx 1 c c  19K Mar  7 12:47 019 - 【Ｎ４文法】～ことになります - Wik5iTUZVP0.mhtml
+-rwxrwxrwx 1 c c  55M Jan 14  2020 019 - 【Ｎ４文法】～ことになります - Wik5iTUZVP0.mp4
+-rwxrwxrwx 1 c c  20K Mar  7 12:47 020 - 【Ｎ４文法】～ことにします - p_yGzIue5Eg.mhtml
+-rwxrwxrwx 1 c c  26M Jan 15  2020 020 - 【Ｎ４文法】～ことにします - p_yGzIue5Eg.mp4
+-rwxrwxrwx 1 c c  19K Mar  7 12:47 021 - 【Ｎ４文法】～てきます - Xe33cRtFyr0.mhtml
+-rwxrwxrwx 1 c c  42M Jan 22  2020 021 - 【Ｎ４文法】～てきます - Xe33cRtFyr0.mp4
+-rwxrwxrwx 1 c c  20K Mar  7 12:47 022 - 【Ｎ４文法】～ていきます - e1JQgWC0SsM.mhtml
+-rwxrwxrwx 1 c c  65M Jan 29  2020 022 - 【Ｎ４文法】～ていきます - e1JQgWC0SsM.mp4
+-rwxrwxrwx 1 c c  19K Mar  7 12:47 023 - 【Ｎ４文法】～てみます - GLy5nScVsvk.mhtml
+-rwxrwxrwx 1 c c  30M Feb  5  2020 023 - 【Ｎ４文法】～てみます - GLy5nScVsvk.mp4
+-rwxrwxrwx 1 c c  18K Mar  7 12:48 024 - 【Ｎ４文法】～てしまいます - 3qtvW1TxZ7I.mhtml
+-rwxrwxrwx 1 c c  58M Feb 13  2020 024 - 【Ｎ４文法】～てしまいます - 3qtvW1TxZ7I.mp4
+-rwxrwxrwx 1 c c  20K Mar  7 12:48 025 - 【Ｎ４文法】～ておきます - AqRldCAg15U.mhtml
+-rwxrwxrwx 1 c c  55M Feb 19  2020 025 - 【Ｎ４文法】～ておきます - AqRldCAg15U.mp4
+-rwxrwxrwx 1 c c  19K Mar  7 12:48 026 - 【Ｎ４文法】～ています - 5jIWEFO7mvo.mhtml
+-rwxrwxrwx 1 c c  73M Feb 27  2020 026 - 【Ｎ４文法】～ています - 5jIWEFO7mvo.mp4
+-rwxrwxrwx 1 c c  18K Mar  7 12:48 027 - 【Ｎ４文法】縮約表現 - -FiXqVNXWAk.mhtml
+-rwxrwxrwx 1 c c  87M Nov 21  2020 027 - 【Ｎ４文法】縮約表現 - -FiXqVNXWAk.mp4
+-rwxrwxrwx 1 c c  19K Mar  7 12:48 028 - 【Ｎ４文法】指示詞 ② - w3mtWbLbGJc.mhtml
+-rwxrwxrwx 1 c c  72M Jan 16  2021 028 - 【Ｎ４文法】指示詞 ② - w3mtWbLbGJc.mp4
+-rwxrwxrwx 1 c c  19K Mar  7 12:48 029 - 【Ｎ４文法】～はじめます - FIbjp_l0MIo.mhtml
+-rwxrwxrwx 1 c c  42M Dec  3  2020 029 - 【Ｎ４文法】～はじめます - FIbjp_l0MIo.mp4
+-rwxrwxrwx 1 c c  20K Mar  7 12:48 030 - 【Ｎ４文法】～だします - k3VFbYM3mTY.mhtml
+-rwxrwxrwx 1 c c  48M Mar 23  2020 030 - 【Ｎ４文法】～だします - k3VFbYM3mTY.mp4
+-rwxrwxrwx 1 c c  19K Mar  7 12:48 031 - 【Ｎ４文法】～続けます - P7PhCsoKzZc.mhtml
+-rwxrwxrwx 1 c c  38M Apr  2  2020 031 - 【Ｎ４文法】～続けます - P7PhCsoKzZc.mp4
+-rwxrwxrwx 1 c c  20K Mar  7 12:48 032 - 【Ｎ４文法】～終わります・～終えます - kBp6Y_2zfes.mhtml
+-rwxrwxrwx 1 c c  43M Apr  9  2020 032 - 【Ｎ４文法】～終わります・～終えます - kBp6Y_2zfes.mp4
+-rwxrwxrwx 1 c c  19K Mar  7 12:48 033 - 【Ｎ４文法】～が します - O0DV-YyYmWw.mhtml
+-rwxrwxrwx 1 c c  43M Apr 14  2020 033 - 【Ｎ４文法】～が します - O0DV-YyYmWw.mp4
+-rwxrwxrwx 1 c c  20K Mar  7 12:48 034 - 【Ｎ４文法】～てあげます - O-yzGKK7Qhc.mhtml
+-rwxrwxrwx 1 c c  54M Apr 21  2020 034 - 【Ｎ４文法】～てあげます - O-yzGKK7Qhc.mp4
+-rwxrwxrwx 1 c c  20K Mar  7 12:48 035 - 【Ｎ４文法】～てもらいます - D6iY5oME9kA.mhtml
+-rwxrwxrwx 1 c c  48M Apr 28  2020 035 - 【Ｎ４文法】～てもらいます - D6iY5oME9kA.mp4
+-rwxrwxrwx 1 c c  21K Mar  7 12:48 036 - 【Ｎ４文法】～てくれます - cCauUPmZgGk.mhtml
+-rwxrwxrwx 1 c c  88M May  5  2020 036 - 【Ｎ４文法】～てくれます - cCauUPmZgGk.mp4
+-rwxrwxrwx 1 c c  23K Mar  7 12:48 037 - 【Ｎ４文法】やります・～てやります - LkWca8k34hE.mhtml
+-rwxrwxrwx 1 c c  68M May 14  2020 037 - 【Ｎ４文法】やります・～てやります - LkWca8k34hE.mp4
+-rwxrwxrwx 1 c c  21K Mar  7 12:48 038 - 【Ｎ４文法】さしあげます・～てさしあげます - FHunyRTP78M.mhtml
+-rwxrwxrwx 1 c c  96M May 20  2020 038 - 【Ｎ４文法】さしあげます・～てさしあげます - FHunyRTP78M.mp4
+-rwxrwxrwx 1 c c  21K Mar  7 12:48 039 - 【Ｎ４文法】いただきます・～ていただきます - J4pPyp65rbM.mhtml
+-rwxrwxrwx 1 c c 107M May 28  2020 039 - 【Ｎ４文法】いただきます・～ていただきます - J4pPyp65rbM.mp4
+-rwxrwxrwx 1 c c  19K Mar  7 12:48 040 - 【Ｎ４文法】くださいます・～てくださいます - WVumpxF0QEY.mhtml
+-rwxrwxrwx 1 c c  67M Jun  4  2020 040 - 【Ｎ４文法】くださいます・～てくださいます - WVumpxF0QEY.mp4
+-rwxrwxrwx 1 c c  21K Mar  7 12:48 041 - 【Ｎ４文法】～ことがあります - ND8yaEnkddM.mhtml
+-rwxrwxrwx 1 c c  40M Jun 10  2020 041 - 【Ｎ４文法】～ことがあります - ND8yaEnkddM.mp4
+-rwxrwxrwx 1 c c  21K Mar  7 12:48 042 - 【Ｎ４文法】～ために - eKeXgQqxVFk.mhtml
+-rwxrwxrwx 1 c c  61M Jun 18  2020 042 - 【Ｎ４文法】～ために - eKeXgQqxVFk.mp4
+-rwxrwxrwx 1 c c  20K Mar  7 12:48 043 - 【Ｎ４文法】～ために ② - YgY_hKNtvBM.mhtml
+-rwxrwxrwx 1 c c  38M Jun 25  2020 043 - 【Ｎ４文法】～ために ② - YgY_hKNtvBM.mp4
+-rwxrwxrwx 1 c c  21K Mar  7 12:48 044 - 【Ｎ４文法】～ところです - DQHaW-DpXKw.mhtml
+-rwxrwxrwx 1 c c  55M Jul  2  2020 044 - 【Ｎ４文法】～ところです - DQHaW-DpXKw.mp4
+-rwxrwxrwx 1 c c  19K Mar  7 12:48 045 - 【Ｎ４文法】～ように - lV7QxAUbxYU.mhtml
+-rwxrwxrwx 1 c c  63M Jul  9  2020 045 - 【Ｎ４文法】～ように - lV7QxAUbxYU.mp4
+-rwxrwxrwx 1 c c  21K Mar  7 12:48 046 - 【Ｎ４文法】～ようになります・～なくなります - ZIOKM1tJVh8.mhtml
+-rwxrwxrwx 1 c c  43M Jul 15  2020 046 - 【Ｎ４文法】～ようになります・～なくなります - ZIOKM1tJVh8.mp4
+-rwxrwxrwx 1 c c  19K Mar  7 12:48 047 - 【Ｎ４文法】～ようにします - 79TO1ZhU-10.mhtml
+-rwxrwxrwx 1 c c  28M Jul 22  2020 047 - 【Ｎ４文法】～ようにします - 79TO1ZhU-10.mp4
+-rwxrwxrwx 1 c c  19K Mar  7 12:48 048 - 【Ｎ４文法】～ようにしてください - N1H2XqUWg20.mhtml
+-rwxrwxrwx 1 c c  36M Jul 30  2020 048 - 【Ｎ４文法】～ようにしてください - N1H2XqUWg20.mp4
+-rwxrwxrwx 1 c c  20K Mar  7 12:48 049 - 【Ｎ４文法】～んです・～のです - GPqGAOa1_kQ.mhtml
+-rwxrwxrwx 1 c c  83M Aug  6  2020 049 - 【Ｎ４文法】～んです・～のです - GPqGAOa1_kQ.mp4
+-rwxrwxrwx 1 c c  21K Mar  7 12:49 050 - 【Ｎ４文法】～より…ほうが - 0Zc5_41mtls.mhtml
+-rwxrwxrwx 1 c c  72M Aug 13  2020 050 - 【Ｎ４文法】～より…ほうが - 0Zc5_41mtls.mp4
+-rwxrwxrwx 1 c c  20K Mar  7 12:49 051 - 【Ｎ４文法】～は…ほど - N6kNfaEnXy8.mhtml
+-rwxrwxrwx 1 c c  23M Aug 21  2020 051 - 【Ｎ４文法】～は…ほど - N6kNfaEnXy8.mp4
+-rwxrwxrwx 1 c c  19K Mar  7 12:49 052 - 【Ｎ４文法】～と…と どちら - IMOLiUOteSs.mhtml
+-rwxrwxrwx 1 c c  42M Aug 27  2020 052 - 【Ｎ４文法】～と…と どちら - IMOLiUOteSs.mp4
+-rwxrwxrwx 1 c c  19K Mar  7 12:49 053 - 【Ｎ４文法】～で…が いちばん - jRMorA2j5Qs.mhtml
+-rwxrwxrwx 1 c c  60M Sep  3  2020 053 - 【Ｎ４文法】～で…が いちばん - jRMorA2j5Qs.mp4
+-rwxrwxrwx 1 c c  19K Mar  7 12:49 054 - 【Ｎ４文法】～と言います - uAn9x1L1Ycc.mhtml
+-rwxrwxrwx 1 c c  59M Sep 10  2020 054 - 【Ｎ４文法】～と言います - uAn9x1L1Ycc.mp4
+-rwxrwxrwx 1 c c  20K Mar  7 12:49 055 - 【Ｎ４文法】～ように言います - OAZToz527BE.mhtml
+-rwxrwxrwx 1 c c  44M Sep 17  2020 055 - 【Ｎ４文法】～ように言います - OAZToz527BE.mp4
+-rwxrwxrwx 1 c c  20K Mar  7 12:49 056 - 【Ｎ４文法】～と思います - ibZywFkUqxI.mhtml
+-rwxrwxrwx 1 c c  53M Sep 24  2020 056 - 【Ｎ４文法】～と思います - ibZywFkUqxI.mp4
+-rwxrwxrwx 1 c c  19K Mar  7 12:49 057 - 【Ｎ４文法】～うと思います - NwxKcOrz-ww.mhtml
+-rwxrwxrwx 1 c c  34M Oct  1  2020 057 - 【Ｎ４文法】～うと思います - NwxKcOrz-ww.mp4
+-rwxrwxrwx 1 c c  19K Mar  7 12:49 058 - 【Ｎ４文法】～うとします - f9Q5VdhwASc.mhtml
+-rwxrwxrwx 1 c c  50M Oct 15  2020 058 - 【Ｎ４文法】～うとします - f9Q5VdhwASc.mp4
+-rwxrwxrwx 1 c c  19K Mar  7 12:49 059 - 【Ｎ４文法】～がります - 5X2MG1StEs0.mhtml
+-rwxrwxrwx 1 c c  84M Oct 22  2020 059 - 【Ｎ４文法】～がります - 5X2MG1StEs0.mp4
+-rwxrwxrwx 1 c c  19K Mar  7 12:49 060 - 【Ｎ４文法】～さ - KQCKI5V-a4k.mhtml
+-rwxrwxrwx 1 c c  33M Oct 29  2020 060 - 【Ｎ４文法】～さ - KQCKI5V-a4k.mp4
+-rwxrwxrwx 1 c c  18K Mar  7 12:49 061 - 【Ｎ４文法】数量詞+助詞 - Z8DAqYMiNVU.mhtml
+-rwxrwxrwx 1 c c  63M Nov  5  2020 061 - 【Ｎ４文法】数量詞+助詞 - Z8DAqYMiNVU.mp4
+-rwxrwxrwx 1 c c  19K Mar  7 12:49 062 - 【Ｎ４文法】～ないで - RAzWgL0t7tQ.mhtml
+-rwxrwxrwx 1 c c  39M Nov 12  2020 062 - 【Ｎ４文法】～ないで - RAzWgL0t7tQ.mp4
+-rwxrwxrwx 1 c c  20K Mar  7 12:49 063 - 【Ｎ４文法】～なくて（原因・並述） - QTZf2KIKwLo.mhtml
+-rwxrwxrwx 1 c c  69M Dec  2  2020 063 - 【Ｎ４文法】～なくて（原因・並述） - QTZf2KIKwLo.mp4
+-rwxrwxrwx 1 c c  19K Mar  7 12:49 064 - 【Ｎ４文法】～ず・～ずに - so-AuWUukm8.mhtml
+-rwxrwxrwx 1 c c  50M Nov 26  2020 064 - 【Ｎ４文法】～ず・～ずに - so-AuWUukm8.mp4
+-rwxrwxrwx 1 c c  19K Mar  7 12:49 065 - 【Ｎ４文法】～まま - hwxT5UUIJ-I.mhtml
+-rwxrwxrwx 1 c c  32M Dec  3  2020 065 - 【Ｎ４文法】～まま - hwxT5UUIJ-I.mp4
+-rwxrwxrwx 1 c c  19K Mar  7 12:49 066 - 【Ｎ４文法】助詞：全肯定「でも」 - V0ZTYnWlHOg.mhtml
+-rwxrwxrwx 1 c c  37M Dec 10  2020 066 - 【Ｎ４文法】助詞：全肯定「でも」 - V0ZTYnWlHOg.mp4
+-rwxrwxrwx 1 c c  20K Mar  7 12:49 067 - 【Ｎ４文法】～か・～かどうか - 1gQ-7aAebVE.mhtml
+-rwxrwxrwx 1 c c  77M Dec 17  2020 067 - 【Ｎ４文法】～か・～かどうか - 1gQ-7aAebVE.mp4
+-rwxrwxrwx 1 c c  18K Mar  7 12:49 068 - 【Ｎ４文法】意向形 - F4zxtpkCQ3A.mhtml
+-rwxrwxrwx 1 c c 113M Dec 24  2020 068 - 【Ｎ４文法】意向形 - F4zxtpkCQ3A.mp4
+-rwxrwxrwx 1 c c  18K Mar  7 12:49 069 - 【Ｎ４文法】可能形 - B82OzYse3BI.mhtml
+-rwxrwxrwx 1 c c  95M Jan  7  2021 069 - 【Ｎ４文法】可能形 - B82OzYse3BI.mp4
+-rwxrwxrwx 1 c c  18K Mar  7 12:49 070 - 【Ｎ４文法】命令形 - pEETExSvZOY.mhtml
+-rwxrwxrwx 1 c c  76M Jan 21  2021 070 - 【Ｎ４文法】命令形 - pEETExSvZOY.mp4
+-rwxrwxrwx 1 c c  19K Mar  7 12:49 071 - 【Ｎ４文法】禁止形 - vG7evfvAR2Y.mhtml
+-rwxrwxrwx 1 c c  62M Jan 27  2021 071 - 【Ｎ４文法】禁止形 - vG7evfvAR2Y.mp4
+-rwxrwxrwx 1 c c  19K Mar  7 12:49 072 - 【Ｎ４文法】条件形 - IbDq0WhMQcU.mhtml
+-rwxrwxrwx 1 c c  70M Apr 25  2021 072 - 【Ｎ４文法】条件形 - IbDq0WhMQcU.mp4
+-rwxrwxrwx 1 c c  17K Mar  7 12:49 073 - 【Ｎ４文法】受身形 - ajl6BFhvfHI.mhtml
+-rwxrwxrwx 1 c c 104M Feb 18  2021 073 - 【Ｎ４文法】受身形 - ajl6BFhvfHI.mp4
+-rwxrwxrwx 1 c c  17K Mar  7 12:49 074 - 【Ｎ４文法】使役形 - tjQFAeWWxHE.mhtml
+-rwxrwxrwx 1 c c 149M Feb 25  2021 074 - 【Ｎ４文法】使役形 - tjQFAeWWxHE.mp4
+-rwxrwxrwx 1 c c  18K Mar  7 12:49 075 - 【Ｎ４文法】使役受身形 - hOxB3L_3uLQ.mhtml
+-rwxrwxrwx 1 c c  73M Mar  3  2021 075 - 【Ｎ４文法】使役受身形 - hOxB3L_3uLQ.mp4
+-rwxrwxrwx 1 c c  18K Mar  7 12:49 076 - 【Ｎ４文法】尊敬形 - Yp9fkaS64fM.mhtml
+-rwxrwxrwx 1 c c  55M Mar 18  2021 076 - 【Ｎ４文法】尊敬形 - Yp9fkaS64fM.mp4
+-rwxrwxrwx 1 c c  18K Mar  7 12:49 077 - 【Ｎ４文法】尊敬語 - NoyuedquFWQ.mhtml
+-rwxrwxrwx 1 c c  89M Apr  2  2021 077 - 【Ｎ４文法】尊敬語 - NoyuedquFWQ.mp4
+-rwxrwxrwx 1 c c  18K Mar  7 12:49 078 - 【Ｎ４文法】謙譲語 - ucDOAUuTC7Q.mhtml
+-rwxrwxrwx 1 c c 106M Apr  1  2021 078 - 【Ｎ４文法】謙譲語 - ucDOAUuTC7Q.mp4
+-rwxrwxrwx 1 c c  20K Mar  7 12:49 079 - 【Ｎ４文法】お～になります・お～です・ご～になります・ご～です - Z7GAPGnEbcs.mhtml
+-rwxrwxrwx 1 c c  76M Apr  8  2021 079 - 【Ｎ４文法】お～になります・お～です・ご～になります・ご～です - Z7GAPGnEbcs.mp4
+-rwxrwxrwx 1 c c  18K Mar  7 12:49 080 - 【Ｎ４文法】お～ください・ご～ください - dmJXOayhHsM.mhtml
+-rwxrwxrwx 1 c c  90M Apr 15  2021 080 - 【Ｎ４文法】お～ください・ご～ください - dmJXOayhHsM.mp4
+-rwxrwxrwx 1 c c  19K Mar  7 12:49 081 - 【Ｎ４文法】お～します・ご～します - mf9pc2Jd9i4.mhtml
+-rwxrwxrwx 1 c c  91M Apr 23  2021 081 - 【Ｎ４文法】お～します・ご～します - mf9pc2Jd9i4.mp4
+-rwxrwxrwx 1 c c  19K Mar  7 12:49 082 - 【Ｎ４文法】～せていただきます - AALApq_JqNI.mhtml
+-rwxrwxrwx 1 c c  73M May  5  2021 082 - 【Ｎ４文法】～せていただきます - AALApq_JqNI.mp4
+-rwxrwxrwx 1 c c  20K Mar  7 12:50 083 - 【Ｎ４文法】お～・ご～ - QCJVGCKTTLo.mhtml
+-rwxrwxrwx 1 c c  70M Aug 30  2021 083 - 【Ｎ４文法】お～・ご～ - QCJVGCKTTLo.mp4
+-rwxrwxrwx 1 c c  18K Mar  7 12:50 084 - 【Ｎ４文法】ございます・～でございます・いらっしゃいます・～でいらっしゃいます - yALJAEhtwIA.mhtml
+-rwxrwxrwx 1 c c 142M May 27  2021 084 - 【Ｎ４文法】ございます・～でございます・いらっしゃいます・～でいらっしゃいます - yALJAEhtwIA.mp4
+-rwxrwxrwx 1 c c  20K Mar  7 12:50 085 - 【Ｎ４文法】文体「論説体（である体）」 - uPcLNMJB5Jc.mhtml
+-rwxrwxrwx 1 c c  72M Jun  9  2021 085 - 【Ｎ４文法】文体「論説体（である体）」 - uPcLNMJB5Jc.mp4
+-rwxrwxrwx 1 c c  19K Mar  7 12:50 086 - 【Ｎ４文法】～うございます - HsLltYilXEs.mhtml
+-rwxrwxrwx 1 c c  81M Jun 20  2021 086 - 【Ｎ４文法】～うございます - HsLltYilXEs.mp4
+-rwxrwxrwx 1 c c  19K Mar  7 12:50 087 - 【Ｎ４文法】お～いただきます・ご～いただきます - rTJzE1KwVbA.mhtml
+-rwxrwxrwx 1 c c  68M Jul  1  2021 087 - 【Ｎ４文法】お～いただきます・ご～いただきます - rTJzE1KwVbA.mp4
+-rwxrwxrwx 1 c c  19K Mar  7 12:50 088 - 【Ｎ４文法】～せてください・～せてくださいませんか - jMbzzJeW-bo.mhtml
+-rwxrwxrwx 1 c c  58M Jul 14  2021 088 - 【Ｎ４文法】～せてください・～せてくださいませんか - jMbzzJeW-bo.mp4
+-rwxrwxrwx 1 c c  20K Mar  7 12:50 089 - 【Ｎ４】～はずです・～はずがありません - DGnLDaSc2Y0.mhtml
+-rwxrwxrwx 1 c c  76M Jul 26  2021 089 - 【Ｎ４】～はずです・～はずがありません - DGnLDaSc2Y0.mp4
+-rwxrwxrwx 1 c c  20K Mar  7 12:50 090 - 【Ｎ４文法】～し～し - 7i3A0DSOg-Y.mhtml
+-rwxrwxrwx 1 c c  50M Aug  4  2021 090 - 【Ｎ４文法】～し～し - 7i3A0DSOg-Y.mp4
+-rwxrwxrwx 1 c c  20K Mar  7 12:50 091 - 【Ｎ４文法】～ばかり（偏向・偏重） - BC1bvU9xWEI.mhtml
+-rwxrwxrwx 1 c c  53M Aug 18  2021 091 - 【Ｎ４文法】～ばかり（偏向・偏重） - BC1bvU9xWEI.mp4
+-rwxrwxrwx 1 c c  19K Mar  7 12:50 092 - 【Ｎ４文法】～たばかりです - V9dkK97WnGQ.mhtml
+-rwxrwxrwx 1 c c  46M Sep  1  2021 092 - 【Ｎ４文法】～たばかりです - V9dkK97WnGQ.mp4
+-rwxrwxrwx 1 c c  19K Mar  7 12:50 093 - 【Ｎ４文法】～だろう - 9fvbxvcdaEU.mhtml
+-rwxrwxrwx 1 c c  75M Sep 12  2021 093 - 【Ｎ４文法】～だろう - 9fvbxvcdaEU.mp4
+-rwxrwxrwx 1 c c  20K Mar  7 12:50 094 - 【Ｎ４文法】～たら - LVHXyP_9RRY.mhtml
+-rwxrwxrwx 1 c c  64M Sep 27  2021 094 - 【Ｎ４文法】～たら - LVHXyP_9RRY.mp4
+-rwxrwxrwx 1 c c  19K Mar  7 12:50 095 - 【Ｎ４文法】～なら - ig9Ys6KrGk8.mhtml
+-rwxrwxrwx 1 c c  82M Oct  7  2021 095 - 【Ｎ４文法】～なら - ig9Ys6KrGk8.mp4
+-rwxrwxrwx 1 c c  19K Mar  7 12:50 096 - 【Ｎ４文法】～と（条件） - 9f2BnjvKOW8.mhtml
+-rwxrwxrwx 1 c c 124M Oct 20  2021 096 - 【Ｎ４文法】～と（条件） - 9f2BnjvKOW8.mp4
+-rwxrwxrwx 1 c c  20K Mar  7 12:50 097 - 【Ｎ４文法】～たらいいです・～ばいいです・～といいです - au5UM_9Qtlw.mhtml
+-rwxrwxrwx 1 c c  66M Nov  1  2021 097 - 【Ｎ４文法】～たらいいです・～ばいいです・～といいです - au5UM_9Qtlw.mp4
+-rwxrwxrwx 1 c c  19K Mar  7 12:50 098 - 【Ｎ４文法】～でも（挙例・程度） - c7KMbhVK_x8.mhtml
+-rwxrwxrwx 1 c c  73M Nov 11  2021 098 - 【Ｎ４文法】～でも（挙例・程度） - c7KMbhVK_x8.mp4
+-rwxrwxrwx 1 c c  21K Mar  7 12:50 099 - 【Ｎ４文法】～とか（挙例） - sIcBHSyQY9s.mhtml
+-rwxrwxrwx 1 c c  67M Nov 24  2021 099 - 【Ｎ４文法】～とか（挙例） - sIcBHSyQY9s.mp4
+-rwxrwxrwx 1 c c  19K Mar  7 12:50 100 - 【Ｎ４文法】形式名詞「の」 - x6a_lyn_D94.mhtml
+-rwxrwxrwx 1 c c  57M Dec  6  2021 100 - 【Ｎ４文法】形式名詞「の」 - x6a_lyn_D94.mp4
+-rwxrwxrwx 1 c c  20K Mar  7 12:50 101 - 【Ｎ４文法】～という - 5oMr9M1uDmk.mhtml
+-rwxrwxrwx 1 c c  67M Dec 22  2021 101 - 【Ｎ４文法】～という - 5oMr9M1uDmk.mp4
+-rwxrwxrwx 1 c c  19K Mar  7 12:50 102 - 【Ｎ４文法】形式名詞「こと」 - LrJWo11gFmM.mhtml
+-rwxrwxrwx 1 c c 127M Jan  3  2022 102 - 【Ｎ４文法】形式名詞「こと」 - LrJWo11gFmM.mp4
+-rwxrwxrwx 1 c c  18K Mar  7 12:50 103 - 【Ｎ４文法】～だけ・～ばかり（限定） - 1PspwNinYes.mhtml
+-rwxrwxrwx 1 c c  70M Jan 13  2022 103 - 【Ｎ４文法】～だけ・～ばかり（限定） - 1PspwNinYes.mp4
+-rwxrwxrwx 1 c c  18K Mar  7 12:50 104 - 【Ｎ４文法】～場合 - xvXxsRFvAto.mhtml
+-rwxrwxrwx 1 c c  75M Jan 26  2022 104 - 【Ｎ４文法】～場合 - xvXxsRFvAto.mp4
+-rwxrwxrwx 1 c c  20K Mar  7 12:50 105 - 【Ｎ４文法】～でしょうか（丁寧） - 2hK7NSXWctU.mhtml
+-rwxrwxrwx 1 c c  84M Feb 16  2022 105 - 【Ｎ４文法】～でしょうか（丁寧） - 2hK7NSXWctU.mp4
+-rwxrwxrwx 1 c c  19K Mar  7 12:50 106 - 【Ｎ４文法】ら抜き可能形（ら抜き言葉） - SQ9ea741S2k.mhtml
+-rwxrwxrwx 1 c c 119M Mar  2  2022 106 - 【Ｎ４文法】ら抜き可能形（ら抜き言葉） - SQ9ea741S2k.mp4
+-rwxrwxrwx 1 c c  19K Mar  7 12:50 107 - 【Ｎ４文法】～じゃなくて - XvA-6R_4TR4.mhtml
+-rwxrwxrwx 1 c c  35M Mar 17  2022 107 - 【Ｎ４文法】～じゃなくて - XvA-6R_4TR4.mp4
+-rwxrwxrwx 1 c c  20K Mar  7 12:50 108 - 【Ｎ４文法】～たり～たり（反復・不定） - EvtY9ac6Umw.mhtml
+-rwxrwxrwx 1 c c  52M Mar 31  2022 108 - 【Ｎ４文法】～たり～たり（反復・不定） - EvtY9ac6Umw.mp4
+-rwxrwxrwx 1 c c  19K Mar  7 12:50 109 - 【Ｎ４文法】～かい・～だい - 8_5zZaqj7iA.mhtml
+-rwxrwxrwx 1 c c  51M Apr 17  2022 109 - 【Ｎ４文法】～かい・～だい - 8_5zZaqj7iA.mp4
+-rwxrwxrwx 1 c c  20K Mar  7 12:50 110 - 【Ｎ４文法】～ても（逆接） - jhs9ftJJPAw.mhtml
+-rwxrwxrwx 1 c c  61M May  9  2022 110 - 【Ｎ４文法】～ても（逆接） - jhs9ftJJPAw.mp4
+-rwxrwxrwx 1 c c  20K Mar  7 12:50 111 - 【Ｎ４文法】～そうです（伝聞） - SE37VlrlGQc.mhtml
+-rwxrwxrwx 1 c c  56M May 30  2022 111 - 【Ｎ４文法】～そうです（伝聞） - SE37VlrlGQc.mp4
+-rwxrwxrwx 1 c c  19K Mar  7 12:50 112 - 【Ｎ４文法】～そうです（推量） - B0Db1Nniuj4.mhtml
+-rwxrwxrwx 1 c c 111M Jun 15  2022 112 - 【Ｎ４文法】～そうです（推量） - B0Db1Nniuj4.mp4
+-rwxrwxrwx 1 c c  19K Mar  7 12:50 113 - 【Ｎ４文法】～らしい（伝聞・推量） - 6Fc6KLzWp9s.mhtml
+-rwxrwxrwx 1 c c 112M Jul  7  2022 113 - 【Ｎ４文法】～らしい（伝聞・推量） - 6Fc6KLzWp9s.mp4
+-rwxrwxrwx 1 c c  19K Mar  7 12:50 114 - 【Ｎ４文法】～らしい（典型） - g9FSC5Am79Y.mhtml
+-rwxrwxrwx 1 c c  19K Mar  7 12:50 115 - 【Ｎ４文法】～ようです - 6lPpxyXAxxM.mhtml
+-rwxrwxrwx 1 c c  20K Mar  7 12:50 116 - 【Ｎ４文法】～みたいです（推量・挙例・比喩） - 2UiJx-cbUw4.mhtml
+-rwxrwxrwx 1 c c  19K Mar  7 12:50 117 - 【Ｎ４文法】意志動詞・非意志動詞 - FUvHgtLLshM.mhtml
+-rwxrwxrwx 1 c c  18K Mar  7 12:51 118 - 【Ｎ４文法】各種助詞：「ぞ」・「ぜ」・「な」・「さ」 - WI0s7-Yrhwc.mhtml
+-rwxrwxrwx 1 c c  19K Mar  7 12:51 119 - 【Ｎ４文法】～かな・～よね - 5capDd0k6B8.mhtml
+
+./N5:
+total 6.3G
+-rwxrwxrwx 1 c c  19K Mar  7 12:51 001 - 【Ｎ５文法】～です・～じゃありません（名詞肯定・否定） - 3zRXvtDnev8.mhtml
+-rwxrwxrwx 1 c c  39M Sep  5  2019 001 - 【Ｎ５文法】～です・～じゃありません（名詞肯定・否定） - 3zRXvtDnev8.mp4
+-rwxrwxrwx 1 c c  18K Mar  7 12:51 002 - 【Ｎ５文法】～ます・～ません（動詞肯定・否定） - cygGNONmB9U.mhtml
+-rwxrwxrwx 1 c c  29M Sep 12  2019 002 - 【Ｎ５文法】～ます・～ません（動詞肯定・否定） - cygGNONmB9U.mp4
+-rwxrwxrwx 1 c c  18K Mar  7 12:51 003 - 【Ｎ５文法】～です・～じゃありません（な形容詞肯定・否定） - M2UYM1DlK_I.mhtml
+-rwxrwxrwx 1 c c  36M Sep 17  2019 003 - 【Ｎ５文法】～です・～じゃありません（な形容詞肯定・否定） - M2UYM1DlK_I.mp4
+-rwxrwxrwx 1 c c  18K Mar  7 12:51 004 - 【Ｎ５文法】～いです・～くないです（い形容詞肯定・否定） - GByt-fO-sRA.mhtml
+-rwxrwxrwx 1 c c  42M Sep 20  2019 004 - 【Ｎ５文法】～いです・～くないです（い形容詞肯定・否定） - GByt-fO-sRA.mp4
+-rwxrwxrwx 1 c c  17K Mar  7 12:51 005 - 【Ｎ５文法】助詞：主題「は」 - uJ_BqCFrnXM.mhtml
+-rwxrwxrwx 1 c c  75M Oct  3  2019 005 - 【Ｎ５文法】助詞：主題「は」 - uJ_BqCFrnXM.mp4
+-rwxrwxrwx 1 c c  19K Mar  7 12:51 006 - 【Ｎ５文法】助詞：同様「も」 - NRrg4YWl_AQ.mhtml
+-rwxrwxrwx 1 c c  53M Oct 10  2019 006 - 【Ｎ５文法】助詞：同様「も」 - NRrg4YWl_AQ.mp4
+-rwxrwxrwx 1 c c  21K Mar  7 12:51 007 - 【Ｎ５文法】助詞：所属、所有、所在、所産「の」 - YhRbMNOfeek.mhtml
+-rwxrwxrwx 1 c c  37M Oct 17  2019 007 - 【Ｎ５文法】助詞：所属、所有、所在、所産「の」 - YhRbMNOfeek.mp4
+-rwxrwxrwx 1 c c  19K Mar  7 12:51 008 - 【Ｎ５文法】助詞：疑問「か」 - _T3dW_uSJwI.mhtml
+-rwxrwxrwx 1 c c  55M Oct 24  2019 008 - 【Ｎ５文法】助詞：疑問「か」 - _T3dW_uSJwI.mp4
+-rwxrwxrwx 1 c c  19K Mar  7 12:51 009 - 【Ｎ５文法】～でした・～じゃありませんでした（名詞過去） - 9FgAj3ONjUw.mhtml
+-rwxrwxrwx 1 c c  28M Oct 31  2019 009 - 【Ｎ５文法】～でした・～じゃありませんでした（名詞過去） - 9FgAj3ONjUw.mp4
+-rwxrwxrwx 1 c c  19K Mar  7 12:51 010 - 【Ｎ５文法】～ました・～ませんでした（動詞過去） - VgIfyGDJSrE.mhtml
+-rwxrwxrwx 1 c c  40M Nov  7  2019 010 - 【Ｎ５文法】～ました・～ませんでした（動詞過去） - VgIfyGDJSrE.mp4
+-rwxrwxrwx 1 c c  20K Mar  7 12:51 011 - 【Ｎ５文法】～でした・～じゃありませんでした（な形容詞過去） - vGZwOFVsETc.mhtml
+-rwxrwxrwx 1 c c  35M Nov 14  2019 011 - 【Ｎ５文法】～でした・～じゃありませんでした（な形容詞過去） - vGZwOFVsETc.mp4
+-rwxrwxrwx 1 c c  19K Mar  7 12:51 012 - 【Ｎ５文法】～かったです・～くなかったです（い形容詞過去） - NvlZJoSt5mg.mhtml
+-rwxrwxrwx 1 c c  42M Nov 21  2019 012 - 【Ｎ５文法】～かったです・～くなかったです（い形容詞過去） - NvlZJoSt5mg.mp4
+-rwxrwxrwx 1 c c  19K Mar  7 12:51 013 - 【Ｎ５文法】助詞：動作進行時点「に」 - f3LYA54uyVQ.mhtml
+-rwxrwxrwx 1 c c  69M Nov 24  2019 013 - 【Ｎ５文法】助詞：動作進行時点「に」 - f3LYA54uyVQ.mp4
+-rwxrwxrwx 1 c c  19K Mar  7 12:51 014 - 【Ｎ５文法】助詞：移動方向「へ」 - 7mccMpVl10E.mhtml
+-rwxrwxrwx 1 c c  34M Dec  2  2019 014 - 【Ｎ５文法】助詞：移動方向「へ」 - 7mccMpVl10E.mp4
+-rwxrwxrwx 1 c c  20K Mar  7 12:51 015 - 【Ｎ５文法】助詞：交通工具「で」 - Av0xw2N3x0Q.mhtml
+-rwxrwxrwx 1 c c  43M Dec 12  2019 015 - 【Ｎ５文法】助詞：交通工具「で」 - Av0xw2N3x0Q.mp4
+-rwxrwxrwx 1 c c  21K Mar  7 12:51 016 - 【Ｎ５文法】助詞：動作夥伴「と」 - ItL1z0UFV9o.mhtml
+-rwxrwxrwx 1 c c  18M Dec 19  2019 016 - 【Ｎ５文法】助詞：動作夥伴「と」 - ItL1z0UFV9o.mp4
+-rwxrwxrwx 1 c c  20K Mar  7 12:51 017 - 【Ｎ５文法】～ませんか - laC5NIRwMZA.mhtml
+-rwxrwxrwx 1 c c  64M Dec 26  2019 017 - 【Ｎ５文法】～ませんか - laC5NIRwMZA.mp4
+-rwxrwxrwx 1 c c  19K Mar  7 12:51 018 - 【Ｎ５文法】～くなります・～になります - w2d2YiJU9UA.mhtml
+-rwxrwxrwx 1 c c  26M Jan  3  2020 018 - 【Ｎ５文法】～くなります・～になります - w2d2YiJU9UA.mp4
+-rwxrwxrwx 1 c c  19K Mar  7 12:51 019 - 【Ｎ５文法】～くします・～にします - q4JbhXZuZGY.mhtml
+-rwxrwxrwx 1 c c  46M Jan 15  2020 019 - 【Ｎ５文法】～くします・～にします - q4JbhXZuZGY.mp4
+-rwxrwxrwx 1 c c  19K Mar  7 12:51 020 - 【Ｎ５文法】～ましょう - eYOl26g6ao4.mhtml
+-rwxrwxrwx 1 c c  38M Jan 16  2020 020 - 【Ｎ５文法】～ましょう - eYOl26g6ao4.mp4
+-rwxrwxrwx 1 c c  19K Mar  7 12:51 021 - 【Ｎ５文法】助詞：動作作用対象「を」 - WdXNSul1CyY.mhtml
+-rwxrwxrwx 1 c c  59M Jan 24  2020 021 - 【Ｎ５文法】助詞：動作作用対象「を」 - WdXNSul1CyY.mp4
+-rwxrwxrwx 1 c c  19K Mar  7 12:51 022 - 【Ｎ５文法】助詞：動作進行地点「で」 - GYxgc7uKfdE.mhtml
+-rwxrwxrwx 1 c c  72M Jan 30  2020 022 - 【Ｎ５文法】助詞：動作進行地点「で」 - GYxgc7uKfdE.mp4
+-rwxrwxrwx 1 c c  19K Mar  7 12:51 023 - 【Ｎ５文法】助詞：起点・経由点「から」 - HlYSIpdDtmk.mhtml
+-rwxrwxrwx 1 c c  33M Feb  7  2020 023 - 【Ｎ５文法】助詞：起点・経由点「から」 - HlYSIpdDtmk.mp4
+-rwxrwxrwx 1 c c  20K Mar  7 12:51 024 - 【Ｎ５文法】助詞：終点・限界「まで」 - qePEc2F-9Kw.mhtml
+-rwxrwxrwx 1 c c  31M Feb 14  2020 024 - 【Ｎ５文法】助詞：終点・限界「まで」 - qePEc2F-9Kw.mp4
+-rwxrwxrwx 1 c c  18K Mar  7 12:52 025 - 【Ｎ５文法】疑問詞 - Ff_Ca_WGZDA.mhtml
+-rwxrwxrwx 1 c c  72M Feb 21  2020 025 - 【Ｎ５文法】疑問詞 - Ff_Ca_WGZDA.mp4
+-rwxrwxrwx 1 c c  18K Mar  7 12:52 026 - 【Ｎ５文法】指示詞 - oLFV9NVepJs.mhtml
+-rwxrwxrwx 1 c c  69M Feb 27  2020 026 - 【Ｎ５文法】指示詞 - oLFV9NVepJs.mp4
+-rwxrwxrwx 1 c c  20K Mar  7 12:52 027 - 【Ｎ５文法】数字 - 3fqzAjezi2k.mhtml
+-rwxrwxrwx 1 c c 127M Nov 25  2020 027 - 【Ｎ５文法】数字 - 3fqzAjezi2k.mp4
+-rwxrwxrwx 1 c c  19K Mar  7 12:52 028 - 【Ｎ５文法】時間表現 - QRyu_Yud0gs.mhtml
+-rwxrwxrwx 1 c c 141M Jun 23  2020 028 - 【Ｎ５文法】時間表現 - QRyu_Yud0gs.mp4
+-rwxrwxrwx 1 c c  20K Mar  7 12:52 029 - 【Ｎ５文法】助詞：並立「と」 - Vcdwe_5WCU4.mhtml
+-rwxrwxrwx 1 c c  34M Mar 19  2020 029 - 【Ｎ５文法】助詞：並立「と」 - Vcdwe_5WCU4.mp4
+-rwxrwxrwx 1 c c  21K Mar  7 12:52 030 - 【Ｎ５文法】助詞：並立一部「や」 - Ys3Uq2JDjdw.mhtml
+-rwxrwxrwx 1 c c  30M Mar 23  2020 030 - 【Ｎ５文法】助詞：並立一部「や」 - Ys3Uq2JDjdw.mp4
+-rwxrwxrwx 1 c c  20K Mar  7 12:52 031 - 【Ｎ５文法】助詞：手段・工具「で」 - QmVm0TJgYpk.mhtml
+-rwxrwxrwx 1 c c  27M Apr  2  2020 031 - 【Ｎ５文法】助詞：手段・工具「で」 - QmVm0TJgYpk.mp4
+-rwxrwxrwx 1 c c  20K Mar  7 12:52 032 - 【Ｎ５文法】助詞：動作相手「に」 - DBvJIYAexwM.mhtml
+-rwxrwxrwx 1 c c  68M Apr  9  2020 032 - 【Ｎ５文法】助詞：動作相手「に」 - DBvJIYAexwM.mp4
+-rwxrwxrwx 1 c c  19K Mar  7 12:52 033 - 【Ｎ５文法】あげます - neL6eLJNj0A.mhtml
+-rwxrwxrwx 1 c c  54M Apr 15  2020 033 - 【Ｎ５文法】あげます - neL6eLJNj0A.mp4
+-rwxrwxrwx 1 c c  21K Mar  7 12:52 034 - 【Ｎ５文法】もらいます - 3qSNQQKTWmQ.mhtml
+-rwxrwxrwx 1 c c  35M Apr 22  2020 034 - 【Ｎ５文法】もらいます - 3qSNQQKTWmQ.mp4
+-rwxrwxrwx 1 c c  20K Mar  7 12:52 035 - 【Ｎ５文法】くれます - Rz7R8YA3FPA.mhtml
+-rwxrwxrwx 1 c c  37M Apr 28  2020 035 - 【Ｎ５文法】くれます - Rz7R8YA3FPA.mp4
+-rwxrwxrwx 1 c c  21K Mar  7 12:52 036 - 【Ｎ５文法】やります - K94H0QG26Ao.mhtml
+-rwxrwxrwx 1 c c  47M May  8  2020 036 - 【Ｎ５文法】やります - K94H0QG26Ao.mp4
+-rwxrwxrwx 1 c c  20K Mar  7 12:52 037 - 【Ｎ５文法】助詞：動作相手授方「から」 - ZBMfv9Gc3uU.mhtml
+-rwxrwxrwx 1 c c 107M May 12  2020 037 - 【Ｎ５文法】助詞：動作相手授方「から」 - ZBMfv9Gc3uU.mp4
+-rwxrwxrwx 1 c c  19K Mar  7 12:52 038 - 【Ｎ５文法】助詞：接触点「に」 - rmCrcK7mqHU.mhtml
+-rwxrwxrwx 1 c c  52M May 20  2020 038 - 【Ｎ５文法】助詞：接触点「に」 - rmCrcK7mqHU.mp4
+-rwxrwxrwx 1 c c  19K Mar  7 12:52 039 - 【Ｎ５文法】助詞：動作単位「で」 - iIt_tieV_10.mhtml
+-rwxrwxrwx 1 c c  69M May 28  2020 039 - 【Ｎ５文法】助詞：動作単位「で」 - iIt_tieV_10.mp4
+-rwxrwxrwx 1 c c  20K Mar  7 12:52 040 - 【Ｎ５文法】助詞：焦点「が」 - FUn1gokaYoo.mhtml
+-rwxrwxrwx 1 c c  69M Jun  4  2020 040 - 【Ｎ５文法】助詞：焦点「が」 - FUn1gokaYoo.mp4
+-rwxrwxrwx 1 c c  20K Mar  7 12:52 041 - 【Ｎ５文法】助詞：存在位置「に」 - XWowIHdB3ZQ.mhtml
+-rwxrwxrwx 1 c c  40M Jun 12  2020 041 - 【Ｎ５文法】助詞：存在位置「に」 - XWowIHdB3ZQ.mp4
+-rwxrwxrwx 1 c c  20K Mar  7 12:52 042 - 【Ｎ５文法】～に…が あります（います） - Whuzgn3l-oo.mhtml
+-rwxrwxrwx 1 c c  30M Jun 19  2020 042 - 【Ｎ５文法】～に…が あります（います） - Whuzgn3l-oo.mp4
+-rwxrwxrwx 1 c c  20K Mar  7 12:52 043 - 【Ｎ５文法】～は…に あります（います） - _huhMhP9DgY.mhtml
+-rwxrwxrwx 1 c c  49M Jun 25  2020 043 - 【Ｎ５文法】～は…に あります（います） - _huhMhP9DgY.mp4
+-rwxrwxrwx 1 c c  20K Mar  7 12:52 044 - 【Ｎ５文法】位置表現 - VhGUps4dn3Y.mhtml
+-rwxrwxrwx 1 c c  54M Jul  3  2020 044 - 【Ｎ５文法】位置表現 - VhGUps4dn3Y.mp4
+-rwxrwxrwx 1 c c  19K Mar  7 12:52 045 - 【Ｎ５文法】～が 欲しいです・～たいです - IuCqb-0mVC4.mhtml
+-rwxrwxrwx 1 c c  66M Jul 10  2020 045 - 【Ｎ５文法】～が 欲しいです・～たいです - IuCqb-0mVC4.mp4
+-rwxrwxrwx 1 c c  21K Mar  7 12:52 046 - 【Ｎ５文法】助詞：原因・理由「から」 - VldNpcpljMU.mhtml
+-rwxrwxrwx 1 c c  56M Jul 17  2020 046 - 【Ｎ５文法】助詞：原因・理由「から」 - VldNpcpljMU.mp4
+-rwxrwxrwx 1 c c  20K Mar  7 12:52 047 - 【Ｎ５文法】原因「て形」・助詞：原因「で」 - LmG8v1mL5dI.mhtml
+-rwxrwxrwx 1 c c  61M Jul 24  2020 047 - 【Ｎ５文法】原因「て形」・助詞：原因「で」 - LmG8v1mL5dI.mp4
+-rwxrwxrwx 1 c c  19K Mar  7 12:52 048 - 【Ｎ５文法】動詞・形容詞・名詞の並述 - J80cLZHYUuc.mhtml
+-rwxrwxrwx 1 c c  47M Jul 30  2020 048 - 【Ｎ５文法】動詞・形容詞・名詞の並述 - J80cLZHYUuc.mp4
+-rwxrwxrwx 1 c c  19K Mar  7 12:52 049 - 【Ｎ５文法】形容詞の名詞接続 - G-WeQQwGgyo.mhtml
+-rwxrwxrwx 1 c c  29M Aug  7  2020 049 - 【Ｎ５文法】形容詞の名詞接続 - G-WeQQwGgyo.mp4
+-rwxrwxrwx 1 c c  20K Mar  7 12:52 050 - 【Ｎ５文法】もう・まだ - 6l7ZIcleKoE.mhtml
+-rwxrwxrwx 1 c c  55M Aug 14  2020 050 - 【Ｎ５文法】もう・まだ - 6l7ZIcleKoE.mp4
+-rwxrwxrwx 1 c c  20K Mar  7 12:53 051 - 【Ｎ５文法】副詞 - 4uuRpPKbxYM.mhtml
+-rwxrwxrwx 1 c c  47M Aug 23  2020 051 - 【Ｎ５文法】副詞 - 4uuRpPKbxYM.mp4
+-rwxrwxrwx 1 c c  20K Mar  7 12:53 052 - 【Ｎ５文法】形容詞の副詞用法 - neY8weBna98.mhtml
+-rwxrwxrwx 1 c c  26M Aug 28  2020 052 - 【Ｎ５文法】形容詞の副詞用法 - neY8weBna98.mp4
+-rwxrwxrwx 1 c c  21K Mar  7 12:53 053 - 【Ｎ５文法】方法手段の「動詞て形」 - uq4tZjiFRS4.mhtml
+-rwxrwxrwx 1 c c  26M Sep  4  2020 053 - 【Ｎ５文法】方法手段の「動詞て形」 - uq4tZjiFRS4.mp4
+-rwxrwxrwx 1 c c  19K Mar  7 12:53 054 - 【Ｎ５】助詞：進入点・到達点「に」 - 9YpeZr6Tby4.mhtml
+-rwxrwxrwx 1 c c  26M Sep 11  2020 054 - 【Ｎ５】助詞：進入点・到達点「に」 - 9YpeZr6Tby4.mp4
+-rwxrwxrwx 1 c c  19K Mar  7 12:53 055 - 【Ｎ５文法】助詞：離脱点「を」 - IsA4G9aBPUw.mhtml
+-rwxrwxrwx 1 c c  29M Sep 18  2020 055 - 【Ｎ５文法】助詞：離脱点「を」 - IsA4G9aBPUw.mp4
+-rwxrwxrwx 1 c c  19K Mar  7 12:53 056 - 【Ｎ５文法】助詞：経過点「を」 - 77mWHFbY6TU.mhtml
+-rwxrwxrwx 1 c c  76M Sep 25  2020 056 - 【Ｎ５文法】助詞：経過点「を」 - 77mWHFbY6TU.mp4
+-rwxrwxrwx 1 c c  17K Mar  7 12:53 057 - 【Ｎ５文法】数量詞 - _CBGGYQ-M40.mhtml
+-rwxrwxrwx 1 c c  96M Oct  2  2020 057 - 【Ｎ５文法】数量詞 - _CBGGYQ-M40.mp4
+-rwxrwxrwx 1 c c  19K Mar  7 12:53 058 - 【Ｎ５文法】助詞：概数量「くらい」 - 8YDjOEFO7-Q.mhtml
+-rwxrwxrwx 1 c c  55M Oct 16  2020 058 - 【Ｎ５文法】助詞：概数量「くらい」 - 8YDjOEFO7-Q.mp4
+-rwxrwxrwx 1 c c  19K Mar  7 12:53 059 - 【Ｎ５文法】助詞：限定「だけ」 - 3-3ei75IbbA.mhtml
+-rwxrwxrwx 1 c c  58M Oct 23  2020 059 - 【Ｎ５文法】助詞：限定「だけ」 - 3-3ei75IbbA.mp4
+-rwxrwxrwx 1 c c  20K Mar  7 12:53 060 - 【Ｎ５文法】助詞：限定「しか」（強調：軽薄短小少） - iphWzxJwPxE.mhtml
+-rwxrwxrwx 1 c c  49M Oct 30  2020 060 - 【Ｎ５文法】助詞：限定「しか」（強調：軽薄短小少） - iphWzxJwPxE.mp4
+-rwxrwxrwx 1 c c  18K Mar  7 12:53 061 - 【Ｎ５文法】名詞代替「の」 - y5cmsp1XBks.mhtml
+-rwxrwxrwx 1 c c  47M Nov  6  2020 061 - 【Ｎ５文法】名詞代替「の」 - y5cmsp1XBks.mp4
+-rwxrwxrwx 1 c c  19K Mar  7 12:53 062 - 【Ｎ５文法】動作順序「動詞て形」 - 7AGztuenMYY.mhtml
+-rwxrwxrwx 1 c c  29M Nov 13  2020 062 - 【Ｎ５文法】動作順序「動詞て形」 - 7AGztuenMYY.mp4
+-rwxrwxrwx 1 c c  18K Mar  7 12:53 063 - 【Ｎ５文法】～てから - GSSeKB1pb14.mhtml
+-rwxrwxrwx 1 c c  55M Nov 20  2020 063 - 【Ｎ５文法】～てから - GSSeKB1pb14.mp4
+-rwxrwxrwx 1 c c  19K Mar  7 12:53 064 - 【Ｎ５文法】～あとで - iPvPSYS3AKE.mhtml
+-rwxrwxrwx 1 c c  38M Nov 26  2020 064 - 【Ｎ５文法】～あとで - iPvPSYS3AKE.mp4
+-rwxrwxrwx 1 c c  18K Mar  7 12:53 065 - 【Ｎ５文法】～まえに - _b61ETBoZvo.mhtml
+-rwxrwxrwx 1 c c  31M Dec  4  2020 065 - 【Ｎ５文法】～まえに - _b61ETBoZvo.mp4
+-rwxrwxrwx 1 c c  18K Mar  7 12:53 066 - 【Ｎ５文法】助詞：全否定「も」 - 3ClpSZM-8L4.mhtml
+-rwxrwxrwx 1 c c  34M Dec 11  2020 066 - 【Ｎ５文法】助詞：全否定「も」 - 3ClpSZM-8L4.mp4
+-rwxrwxrwx 1 c c  19K Mar  7 12:53 067 - 【Ｎ５文法】附帶状況「動詞て形」 - rG1EgtKxFQQ.mhtml
+-rwxrwxrwx 1 c c  37M Dec 18  2020 067 - 【Ｎ５文法】附帶状況「動詞て形」 - rG1EgtKxFQQ.mp4
+-rwxrwxrwx 1 c c  18K Mar  7 12:53 068 - 【Ｎ５文法】ます形 - AsEvNl4Cad0.mhtml
+-rwxrwxrwx 1 c c 104M Dec 25  2020 068 - 【Ｎ５文法】ます形 - AsEvNl4Cad0.mp4
+-rwxrwxrwx 1 c c  18K Mar  7 12:53 069 - 【Ｎ５文法】て形 - 3YdwZ_xRB3g.mhtml
+-rwxrwxrwx 1 c c 156M Jan 15  2021 069 - 【Ｎ５文法】て形 - 3YdwZ_xRB3g.mp4
+-rwxrwxrwx 1 c c  19K Mar  7 12:53 070 - 【Ｎ５文法】辞書形 - VXTA-hsnJEY.mhtml
+-rwxrwxrwx 1 c c  97M Jan 22  2021 070 - 【Ｎ５文法】辞書形 - VXTA-hsnJEY.mp4
+-rwxrwxrwx 1 c c  19K Mar  7 12:53 071 - 【Ｎ５文法】ない形 - VtZa9KbrpM0.mhtml
+-rwxrwxrwx 1 c c  84M Jan 28  2021 071 - 【Ｎ５文法】ない形 - VtZa9KbrpM0.mp4
+-rwxrwxrwx 1 c c  19K Mar  7 12:53 072 - 【Ｎ５文法】た形 - 0SSUlNir4X8.mhtml
+-rwxrwxrwx 1 c c  87M Feb  5  2021 072 - 【Ｎ５文法】た形 - 0SSUlNir4X8.mp4
+-rwxrwxrwx 1 c c  19K Mar  7 12:53 073 - 【Ｎ５文法】なかった形 - i8796RPeBtQ.mhtml
+-rwxrwxrwx 1 c c  66M Feb 18  2021 073 - 【Ｎ５文法】なかった形 - i8796RPeBtQ.mp4
+-rwxrwxrwx 1 c c  20K Mar  7 12:53 074 - 【Ｎ５文法】動詞「普通形」 - R5HI0jxURz0.mhtml
+-rwxrwxrwx 1 c c  80M Feb 25  2021 074 - 【Ｎ５文法】動詞「普通形」 - R5HI0jxURz0.mp4
+-rwxrwxrwx 1 c c  20K Mar  7 12:53 075 - 【Ｎ５文法】い形容詞「普通形」 - rKQWoxJvzrE.mhtml
+-rwxrwxrwx 1 c c  58M Mar  5  2021 075 - 【Ｎ５文法】い形容詞「普通形」 - rKQWoxJvzrE.mp4
+-rwxrwxrwx 1 c c  20K Mar  7 12:53 076 - 【Ｎ５文法】な形容詞「普通形」 - ckd01Su3YNY.mhtml
+-rwxrwxrwx 1 c c  78M Mar 12  2021 076 - 【Ｎ５文法】な形容詞「普通形」 - ckd01Su3YNY.mp4
+-rwxrwxrwx 1 c c  19K Mar  7 12:53 077 - 【Ｎ５文法】名詞「普通形」 - dlqTPC91x1E.mhtml
+-rwxrwxrwx 1 c c  81M Mar 26  2021 077 - 【Ｎ５文法】名詞「普通形」 - dlqTPC91x1E.mp4
+-rwxrwxrwx 1 c c  21K Mar  7 12:53 078 - 【Ｎ５文法】普通形＋名詞（連体修飾） - fuNoYEBG-Bw.mhtml
+-rwxrwxrwx 1 c c  68M Apr  2  2021 078 - 【Ｎ５文法】普通形＋名詞（連体修飾） - fuNoYEBG-Bw.mp4
+-rwxrwxrwx 1 c c  17K Mar  7 12:53 079 - 【Ｎ５文法】連体詞 - Tg7rIpkBiPA.mhtml
+-rwxrwxrwx 1 c c 113M Apr  9  2021 079 - 【Ｎ５文法】連体詞 - Tg7rIpkBiPA.mp4
+-rwxrwxrwx 1 c c  19K Mar  7 12:54 080 - 【Ｎ５文法】～とき - 9MhRk-DsycA.mhtml
+-rwxrwxrwx 1 c c  60M Aug 31  2021 080 - 【Ｎ５文法】～とき - 9MhRk-DsycA.mp4
+-rwxrwxrwx 1 c c  19K Mar  7 12:54 081 - 【Ｎ５文法】助詞：同意「ね」 - e6sIQMLfj0w.mhtml
+-rwxrwxrwx 1 c c  38M Apr 25  2021 081 - 【Ｎ５文法】助詞：同意「ね」 - e6sIQMLfj0w.mp4
+-rwxrwxrwx 1 c c  18K Mar  7 12:54 082 - 【Ｎ５文法】助詞：喚起「よ」 - Bz9ARh7ataw.mhtml
+-rwxrwxrwx 1 c c  44M Sep  3  2021 082 - 【Ｎ５文法】助詞：喚起「よ」 - Bz9ARh7ataw.mp4
+-rwxrwxrwx 1 c c  17K Mar  7 12:54 083 - 【Ｎ５文法】助詞：女性語気「わ」 - ufIihSxC2Kc.mhtml
+-rwxrwxrwx 1 c c  35M Aug 31  2021 083 - 【Ｎ５文法】助詞：女性語気「わ」 - ufIihSxC2Kc.mp4
+-rwxrwxrwx 1 c c  19K Mar  7 12:54 084 - 【Ｎ５文法】文体「丁寧体・普通体」 - u5YluISdV9s.mhtml
+-rwxrwxrwx 1 c c  71M May 31  2021 084 - 【Ｎ５文法】文体「丁寧体・普通体」 - u5YluISdV9s.mp4
+-rwxrwxrwx 1 c c  18K Mar  7 12:54 085 - 【Ｎ５文法】接頭辞・接尾辞 - qVEqeNEPpqA.mhtml
+-rwxrwxrwx 1 c c  65M Jun 10  2021 085 - 【Ｎ５文法】接頭辞・接尾辞 - qVEqeNEPpqA.mp4
+-rwxrwxrwx 1 c c  18K Mar  7 12:54 086 - 【Ｎ５文法】何か・誰か・どこか・いつか（不特定・不確定「か」） - Os6Bg84NCMo.mhtml
+-rwxrwxrwx 1 c c  70M Jun 23  2021 086 - 【Ｎ５文法】何か・誰か・どこか・いつか（不特定・不確定「か」） - Os6Bg84NCMo.mp4
+-rwxrwxrwx 1 c c  18K Mar  7 12:54 087 - 【Ｎ５文法】助詞：述語の主体「が」 - GjoasAi-dbA.mhtml
+-rwxrwxrwx 1 c c  64M Jul  5  2021 087 - 【Ｎ５文法】助詞：述語の主体「が」 - GjoasAi-dbA.mp4
+-rwxrwxrwx 1 c c  18K Mar  7 12:54 088 - 【Ｎ５文法】助詞：逆接「が」 - O1lrGDGSdpU.mhtml
+-rwxrwxrwx 1 c c  64M Jul 15  2021 088 - 【Ｎ５文法】助詞：逆接「が」 - O1lrGDGSdpU.mp4
+-rwxrwxrwx 1 c c  18K Mar  7 12:54 089 - 【Ｎ５文法】接続詞 - bjcSp93qvhs.mhtml
+-rwxrwxrwx 1 c c  78M Sep  1  2021 089 - 【Ｎ５文法】接続詞 - bjcSp93qvhs.mp4
+-rwxrwxrwx 1 c c  18K Mar  7 12:54 090 - 【Ｎ５文法】感応詞 - yTM-G1xa63Q.mhtml
+-rwxrwxrwx 1 c c 110M Aug  9  2021 090 - 【Ｎ５文法】感応詞 - yTM-G1xa63Q.mp4
+-rwxrwxrwx 1 c c  19K Mar  7 12:54 091 - 【Ｎ５文法】ください - esYAg50QUJI.mhtml
+-rwxrwxrwx 1 c c  53M Aug 18  2021 091 - 【Ｎ５文法】ください - esYAg50QUJI.mp4
+-rwxrwxrwx 1 c c  19K Mar  7 12:54 092 - 【Ｎ５文法】～てください・～ないでください - s4aJunA1Olk.mhtml
+-rwxrwxrwx 1 c c  43M Sep  1  2021 092 - 【Ｎ５文法】～てください・～ないでください - s4aJunA1Olk.mp4
+-rwxrwxrwx 1 c c  19K Mar  7 12:54 093 - 【Ｎ５文法】～ないで（附帯状況） - tKPNE9CJ9LM.mhtml
+-rwxrwxrwx 1 c c  61M Sep 15  2021 093 - 【Ｎ５文法】～ないで（附帯状況） - tKPNE9CJ9LM.mp4
+-rwxrwxrwx 1 c c  19K Mar  7 12:54 094 - 【Ｎ５文法】助詞：同時進行「ながら」 - AigFy-kufZI.mhtml
+-rwxrwxrwx 1 c c  45M Sep 29  2021 094 - 【Ｎ５文法】助詞：同時進行「ながら」 - AigFy-kufZI.mp4
+-rwxrwxrwx 1 c c  20K Mar  7 12:54 095 - 【Ｎ５文法】助詞：前言「が」 - CDAG2ybQdQQ.mhtml
+-rwxrwxrwx 1 c c  57M Oct 10  2021 095 - 【Ｎ５文法】助詞：前言「が」 - CDAG2ybQdQQ.mp4
+-rwxrwxrwx 1 c c  19K Mar  7 12:54 096 - 【Ｎ５文法】助詞：逆接・前言「けど」 - w9zEbQlW8Oo.mhtml
+-rwxrwxrwx 1 c c  50M Oct 21  2021 096 - 【Ｎ５文法】助詞：逆接・前言「けど」 - w9zEbQlW8Oo.mp4
+-rwxrwxrwx 1 c c  19K Mar  7 12:54 097 - 【Ｎ５文法】助詞：目的「に」 - UWNPlkI1KTU.mhtml
+-rwxrwxrwx 1 c c  75M Nov  3  2021 097 - 【Ｎ５文法】助詞：目的「に」 - UWNPlkI1KTU.mp4
+-rwxrwxrwx 1 c c  18K Mar  7 12:54 098 - 【Ｎ５文法】助詞：分母「に」 - dn19hAnoXw8.mhtml
+-rwxrwxrwx 1 c c  47M Nov 15  2021 098 - 【Ｎ５文法】助詞：分母「に」 - dn19hAnoXw8.mp4
+-rwxrwxrwx 1 c c  19K Mar  7 12:54 099 - 【Ｎ５文法】助詞：言及範囲「で」 - oM414c0ltUQ.mhtml
+-rwxrwxrwx 1 c c  34M Nov 25  2021 099 - 【Ｎ５文法】助詞：言及範囲「で」 - oM414c0ltUQ.mp4
+-rwxrwxrwx 1 c c  21K Mar  7 12:54 100 - 【Ｎ５文法】連体修飾節内「が」⇔「の」交替 - 3hC8yIxB_aY.mhtml
+-rwxrwxrwx 1 c c  63M Dec  8  2021 100 - 【Ｎ５文法】連体修飾節内「が」⇔「の」交替 - 3hC8yIxB_aY.mp4
+-rwxrwxrwx 1 c c  21K Mar  7 12:54 101 - 【Ｎ５文法】擬態語・擬声語（オノマトペ） - VvUwbqtzI0U.mhtml
+-rwxrwxrwx 1 c c  76M Dec 23  2021 101 - 【Ｎ５文法】擬態語・擬声語（オノマトペ） - VvUwbqtzI0U.mp4
+-rwxrwxrwx 1 c c  22K Mar  7 12:54 102 - 【Ｎ５文法】二種類の丁寧形否定表現 - SUGleiQ4Z8s.mhtml
+-rwxrwxrwx 1 c c  86M Jan  5  2022 102 - 【Ｎ５文法】二種類の丁寧形否定表現 - SUGleiQ4Z8s.mp4
+-rwxrwxrwx 1 c c  19K Mar  7 12:54 103 - 【Ｎ５文法】～でしょう - Q8KXlJ-qzZA.mhtml
+-rwxrwxrwx 1 c c  29M Jan 17  2022 103 - 【Ｎ５文法】～でしょう - Q8KXlJ-qzZA.mp4
+-rwxrwxrwx 1 c c  18K Mar  7 12:54 104 - 【Ｎ５文法】～ころ - FwSWiOrVntA.mhtml
+-rwxrwxrwx 1 c c  84M Feb  7  2022 104 - 【Ｎ５文法】～ころ - FwSWiOrVntA.mp4
+-rwxrwxrwx 1 c c  21K Mar  7 12:54 105 - 【Ｎ５文法】～ています（現在進行）（目前状態） - 9BWX8AERuCQ.mhtml
+-rwxrwxrwx 1 c c  67M Feb 21  2022 105 - 【Ｎ５文法】～ています（現在進行）（目前状態） - 9BWX8AERuCQ.mp4
+-rwxrwxrwx 1 c c  20K Mar  7 12:54 106 - 【Ｎ５文法】～たり～たり（動作並立＜一部＞） - g1lb4vnh4yo.mhtml
+-rwxrwxrwx 1 c c  57M Mar  3  2022 106 - 【Ｎ５文法】～たり～たり（動作並立＜一部＞） - g1lb4vnh4yo.mp4
+-rwxrwxrwx 1 c c  19K Mar  7 12:55 107 - 【Ｎ５文法】～中 - FDrYbQBOEVw.mhtml
+-rwxrwxrwx 1 c c  63M Mar 21  2022 107 - 【Ｎ５文法】～中 - FDrYbQBOEVw.mp4
+-rwxrwxrwx 1 c c  18K Mar  7 12:55 108 - 【Ｎ５文法】助詞：区別・対比「は」 - bjfgS1MJi-A.mhtml
+-rwxrwxrwx 1 c c  77M Apr  4  2022 108 - 【Ｎ５文法】助詞：区別・対比「は」 - bjfgS1MJi-A.mp4
+-rwxrwxrwx 1 c c  20K Mar  7 12:55 109 - 【Ｎ５文法】助詞：選択「か」 - gYbsd4jAMAg.mhtml
+-rwxrwxrwx 1 c c  34M Apr 21  2022 109 - 【Ｎ５文法】助詞：選択「か」 - gYbsd4jAMAg.mp4
+-rwxrwxrwx 1 c c  18K Mar  7 12:55 110 - 【Ｎ５文法】頻度・程度・量の表現 - x32zi7cGVQg.mhtml
+-rwxrwxrwx 1 c c  79M May 15  2022 110 - 【Ｎ５文法】頻度・程度・量の表現 - x32zi7cGVQg.mp4
+-rwxrwxrwx 1 c c  19K Mar  7 12:55 111 - 【Ｎ５文法】～という（名称導入） - 4ddcTf2CFf8.mhtml
+-rwxrwxrwx 1 c c  58M Jun  1  2022 111 - 【Ｎ５文法】～という（名称導入） - 4ddcTf2CFf8.mp4
+-rwxrwxrwx 1 c c  20K Mar  7 12:55 112 - 【Ｎ５文法】～からです - M2ACwSXE_FI.mhtml
+-rwxrwxrwx 1 c c  35M Jun 20  2022 112 - 【Ｎ５文法】～からです - M2ACwSXE_FI.mp4
+-rwxrwxrwx 1 c c  19K Mar  7 12:55 113 - 【Ｎ５文法】格助詞＋は・格助詞＋も - No6oF-Pkd-o.mhtml
+-rwxrwxrwx 1 c c  80M Jul 20  2022 113 - 【Ｎ５文法】格助詞＋は・格助詞＋も - No6oF-Pkd-o.mp4
+-rwxrwxrwx 1 c c  20K Mar  7 12:55 114 - 【Ｎ５文法】自動詞・他動詞 - RCbHfU5L4Wg.mhtml
+-rwxrwxrwx 1 c c  20K Mar  7 12:55 115 - 【Ｎ５文法】自動詞て形+います・他動詞て形+あります - pNEGlpxa7ys.mhtml
+-rwxrwxrwx 1 c c  22K Mar  7 12:55 116 - 【Ｎ５文法】助詞：相互動作對方「と」 - ERrXSu70wtw.mhtml
+-rwxrwxrwx 1 c c  19K Mar  7 12:55 117 - 【Ｎ５文法】助詞：意識感情対象「を」・方向（非移動）「を」 - DIJZVXAFn_w.mhtml
+-rwxrwxrwx 1 c c  20K Mar  7 12:55 118 - 【Ｎ５文法】助詞：方面「に」 - pRXAifoJlsg.mhtml
+-rwxrwxrwx 1 c c  19K Mar  7 12:55 119 - 【Ｎ５文法】助詞：変化決定結果「に」 - j63rRWLkVYk.mhtml
+
+./src:
+total 4.0G
+-rwxrwxrwx 1 c c   63M Oct 16 02:54 81713239_10_0.mp4
+-rwxrwxrwx 1 c c   64M Oct 16 02:54 81713239_11_0.mp4
+-rwxrwxrwx 1 c c   70M Oct 16 02:54 81713239_12_0.mp4
+-rwxrwxrwx 1 c c   73M Oct 16 02:54 81713239_13_0.mp4
+-rwxrwxrwx 1 c c   87M Oct 16 02:54 81713239_14_0.mp4
+-rwxrwxrwx 1 c c   71M Oct 16 02:54 81713239_15_0.mp4
+-rwxrwxrwx 1 c c   67M Oct 16 02:54 81713239_16_0.mp4
+-rwxrwxrwx 1 c c   59M Oct 16 02:54 81713239_17_0.mp4
+-rwxrwxrwx 1 c c   78M Oct 16 02:54 81713239_18_0.mp4
+-rwxrwxrwx 1 c c   66M Oct 16 02:54 81713239_19_0.mp4
+-rwxrwxrwx 1 c c   93M Oct 16 02:54 81713239_1_0.mp4
+-rwxrwxrwx 1 c c   99M Oct 16 02:54 81713239_20_0.mp4
+-rwxrwxrwx 1 c c   80M Oct 16 02:54 81713239_21_0.mp4
+-rwxrwxrwx 1 c c   66M Oct 16 02:54 81713239_22_0.mp4
+-rwxrwxrwx 1 c c   65M Oct 16 02:54 81713239_23_0.mp4
+-rwxrwxrwx 1 c c   79M Oct 16 02:54 81713239_24_0.mp4
+-rwxrwxrwx 1 c c   64M Oct 16 02:54 81713239_25_0.mp4
+-rwxrwxrwx 1 c c   83M Oct 16 02:54 81713239_26_0.mp4
+-rwxrwxrwx 1 c c   97M Oct 16 02:54 81713239_27_0.mp4
+-rwxrwxrwx 1 c c   45M Oct 16 02:54 81713239_28_0.mp4
+-rwxrwxrwx 1 c c   42M Oct 16 02:54 81713239_29_0.mp4
+-rwxrwxrwx 1 c c   83M Oct 16 02:54 81713239_2_0.mp4
+-rwxrwxrwx 1 c c   70M Oct 16 02:54 81713239_30_0.mp4
+-rwxrwxrwx 1 c c   74M Oct 16 02:54 81713239_31_0.mp4
+-rwxrwxrwx 1 c c   59M Oct 16 02:54 81713239_32_0.mp4
+-rwxrwxrwx 1 c c   98M Oct 16 02:54 81713239_33_0.mp4
+-rwxrwxrwx 1 c c   51M Oct 16 02:54 81713239_34_0.mp4
+-rwxrwxrwx 1 c c  107M Oct 16 02:54 81713239_35_0.mp4
+-rwxrwxrwx 1 c c   64M Oct 16 02:55 81713239_36_0.mp4
+-rwxrwxrwx 1 c c  105M Oct 16 02:55 81713239_37_0.mp4
+-rwxrwxrwx 1 c c   43M Oct 16 02:55 81713239_38_0.mp4
+-rwxrwxrwx 1 c c   87M Oct 16 02:55 81713239_39_0.mp4
+-rwxrwxrwx 1 c c   65M Oct 16 02:54 81713239_3_0.mp4
+-rwxrwxrwx 1 c c   62M Oct 16 02:55 81713239_40_0.mp4
+-rwxrwxrwx 1 c c  119M Oct 16 02:55 81713239_41_0.mp4
+-rwxrwxrwx 1 c c   61M Oct 16 02:55 81713239_42_0.mp4
+-rwxrwxrwx 1 c c   74M Oct 16 02:55 81713239_43_0.mp4
+-rwxrwxrwx 1 c c   63M Oct 16 02:55 81713239_44_0.mp4
+-rwxrwxrwx 1 c c  125M Oct 16 02:55 81713239_45_0.mp4
+-rwxrwxrwx 1 c c   63M Oct 16 02:55 81713239_46_0.mp4
+-rwxrwxrwx 1 c c   79M Oct 16 02:55 81713239_47_0.mp4
+-rwxrwxrwx 1 c c   88M Oct 16 02:55 81713239_48_0.mp4
+-rwxrwxrwx 1 c c  119M Oct 16 02:55 81713239_49_0.mp4
+-rwxrwxrwx 1 c c   68M Oct 16 02:55 81713239_4_0.mp4
+-rwxrwxrwx 1 c c  112M Oct 16 02:55 81713239_50_0.mp4
+-rwxrwxrwx 1 c c  202M Oct 16 02:55 81713239_5_0.mp4
+-rwxrwxrwx 1 c c  104M Oct 16 02:55 81713239_6_0.mp4
+-rwxrwxrwx 1 c c   83M Oct 16 02:55 81713239_7_0.mp4
+-rwxrwxrwx 1 c c   86M Oct 16 02:55 81713239_8_0.mp4
+-rwxrwxrwx 1 c c   51M Oct 16 02:55 81713239_9_0.mp4
+-rwxrwxrwx 1 c c  9.8M Jun 11  2022 【旅行會話篇】01  交通 [vim90B2h2_8].mp4
+-rwxrwxrwx 1 c c  2.7M Jun 28  2022 【旅行會話篇】02  住宿 [01ryUvwcP2Q].mp4
+-rwxrwxrwx 1 c c  3.2M Jun 28  2022 【旅行會話篇】03  客房服務 [UbU-iBarpnM].mp4
+-rwxrwxrwx 1 c c  1.7M Jun 29  2022 【旅行會話篇】04  預約 [i2tnOBf8vQY].mp4
+-rwxrwxrwx 1 c c   11M Jun 30  2022 【旅行會話篇】05  飲食 [aHW-NFjh-Ng].mp4
+-rwxrwxrwx 1 c c  8.3M Jun 28  2022 【旅行會話篇】06  購物 [J2kTEhGT-Eo].mp4
+-rwxrwxrwx 1 c c  3.0M Jun 30  2022 【旅行會話篇】07  結帳 [qPqiPQRTM3c].mp4
+-rwxrwxrwx 1 c c  4.1M Jun 28  2022 【旅行會話篇】08  觀光 拍照 [5jJjEGc0V0s].mp4
+-rwxrwxrwx 1 c c  2.3M Jun 28  2022 【旅行會話篇】09  活動 購票 [BJw-nXD6Gk4].mp4
+-rwxrwxrwx 1 c c  3.7M Jun 29  2022 【旅行會話篇】10  詢問 [yQ1-mVoK-Qk].mp4
+-rwxrwxrwx 1 c c  2.1M Jun 29  2022 【旅行會話篇】11  換錢 [uTMIQG098LQ].mp4
+-rwxrwxrwx 1 c c  4.9M Jun 28  2022 【旅行會話篇】12  意外 求助 [CA-YoYAa9OM].mp4
+-rwxrwxrwx 1 c c  4.9M Jun 29  2022 【生活實用篇】01  心情 [WmoTzt6_Loo].mp4
+-rwxrwxrwx 1 c c  1.7M Jun 27  2022 【生活實用篇】02  安慰 安撫 [8103T5ZsFPA].mp4
+-rwxrwxrwx 1 c c  3.2M Jun 29  2022 【生活實用篇】03  希望 要求 [cDXTOiTmXMo].mp4
+-rwxrwxrwx 1 c c  1.9M Jun 29  2022 【生活實用篇】04  請求協助 [sB3hkdAD7p0].mp4
+-rwxrwxrwx 1 c c  2.2M Jun 29  2022 【生活實用篇】05  邀約 [U6Tu8K5DJqc].mp4
+-rwxrwxrwx 1 c c 1021K Jun 29  2022 【生活實用篇】06  抱怨 [r5_9EWVbnhc].mp4
+-rwxrwxrwx 1 c c  2.3M Jun 27  2022 【生活實用篇】07  歉意 婉拒 [dQfTkszBUEQ].mp4
+-rwxrwxrwx 1 c c  6.7M Jun 27  2022 【生活實用篇】08  提醒 建議 [4Va_H1T-nIw].mp4
+-rwxrwxrwx 1 c c  6.5M Jun 30  2022 【生活實用篇】09  疑問 疑惑 [G9B1uxfUx88].mp4
+-rwxrwxrwx 1 c c  1.1M Jun 27  2022 【生活實用篇】10  感謝 [62CZfztJbCA].mp4
+-rwxrwxrwx 1 c c  3.4M Jun 28  2022 【生活實用篇】11  關心 讚美 [dvrDBQvG-eo].mp4
+-rwxrwxrwx 1 c c  1.8M Jun 28  2022 【生活實用篇】12  否定陳述 [K_6Um6XR43k].mp4
+-rwxrwxrwx 1 c c  3.6M Jun 28  2022 【生活實用篇】13  肯定陳述 [NYSbmBts91w].mp4
+-rwxrwxrwx 1 c c  2.0M Jun 29  2022 【生活實用篇】14  感想 [vjDSL__5GEU].mp4
+-rwxrwxrwx 1 c c  2.5M Jun 28  2022 【生活實用篇】15  說話 [7Rc6vkUpXOE].mp4
+-rwxrwxrwx 1 c c  1.5M Jun 28  2022 【生活實用篇】16  決心 承諾 [6vApSNViWmo].mp4
+-rwxrwxrwx 1 c c  1.4M Jun 28  2022 【生活實用篇】17  移動 行動 [g8HHYMQZYTc].mp4
+-rwxrwxrwx 1 c c  3.9M Jun 29  2022 【生活實用篇】18  飲食 [zDG3rjDx55g].mp4
+-rwxrwxrwx 1 c c  2.0M Jun 30  2022 【生活實用篇】19  身體狀況 [Xyrf3EK2RIk].mp4
+-rwxrwxrwx 1 c c  2.3M Jun 29  2022 【生活實用篇】20  突發狀況 [Oc98ZzAkifg].mp4
